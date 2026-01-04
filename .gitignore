@@ -60,6 +60,7 @@ build-external-js-simple.js
 *.md
 !README.md
 !DEPLOYMENT_PLESK.md
+!CLEAN_SERVER.md
 
 # Temporary obfuscation output
 obfuscated-config.txt
