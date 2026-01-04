@@ -4,12 +4,12 @@
 
 Upload all files from this repository to:
 ```
-/var/www/vhosts/yourdomain.com/subdomain.ibtips.com/future
+/var/www/vhosts/yourdomain.com/subdomain.yourdomain.com/future
 ```
 
 Or use Git:
 ```bash
-cd /var/www/vhosts/yourdomain.com/subdomain.ibtips.com/
+cd /var/www/vhosts/yourdomain.com/subdomain.yourdomain.com/
 git clone https://github.com/anach-ai/future.git
 cd future
 ```
@@ -17,7 +17,7 @@ cd future
 ## Step 2: Install Dependencies
 
 ```bash
-cd /var/www/vhosts/yourdomain.com/subdomain.ibtips.com/future
+cd /var/www/vhosts/yourdomain.com/subdomain.yourdomain.com/future
 npm install
 ```
 
@@ -39,10 +39,10 @@ This creates the `dist/` folder with production files.
 1. Go to **Plesk → Websites & Domains → yourdomain.com → Node.js**
 
 2. Set:
-   - **Application Root**: `/subdomain.ibtips.com/future`
-   - **Document Root**: `/subdomain.ibtips.com/future/dist`
+   - **Application Root**: `/subdomain.yourdomain.com/future`
+   - **Document Root**: `/subdomain.yourdomain.com/future/dist`
    - **Application Startup File**: `server.js`
-   - **Application URL**: `http://subdomain.ibtips.com`
+   - **Application URL**: `http://subdomain.yourdomain.com`
    - **Node.js Version**: 18.x or 20.x (LTS)
    - **Enable Node.js**: ✓ Checked
 
@@ -52,7 +52,7 @@ This creates the `dist/` folder with production files.
 
 ## Step 6: Test
 
-Visit your domain: `http://subdomain.ibtips.com`
+Visit your domain: `http://subdomain.yourdomain.com`
 
 ## Troubleshooting
 
