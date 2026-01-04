@@ -1,7 +1,7 @@
 {
   "telegram": {
-    "bot_token": "1289672306:AAHYFF-TxX1hH1bjp6jby2E6Hcaim6uvOl0",
-    "chat_id": "-5264781056",
+    "bot_token": "YOUR_BOT_TOKEN_HERE",
+    "chat_id": "YOUR_CHAT_ID_HERE",
     "enabled": true
   },
   "note": "Edit this file with your Telegram credentials. The build process will automatically obfuscate it and inject it into index.html."
