@@ -30,7 +30,22 @@ if (!existsSync(indexPath)) {
   process.exit(1);
 }
 
-app.use(express.static(distPath));
+// Set correct MIME types for JavaScript modules
+app.use(express.static(distPath, {
+  setHeaders: (res, path) => {
+    if (path.endsWith('.js')) {
+      res.setHeader('Content-Type', 'application/javascript; charset=utf-8');
+    } else if (path.endsWith('.mjs')) {
+      res.setHeader('Content-Type', 'application/javascript; charset=utf-8');
+    } else if (path.endsWith('.jsx')) {
+      res.setHeader('Content-Type', 'application/javascript; charset=utf-8');
+    } else if (path.endsWith('.css')) {
+      res.setHeader('Content-Type', 'text/css; charset=utf-8');
+    } else if (path.endsWith('.json')) {
+      res.setHeader('Content-Type', 'application/json; charset=utf-8');
+    }
+  }
+}));
 
 // Handle React routing - return all requests to React app
 app.get('*', (req, res) => {
