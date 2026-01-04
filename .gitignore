@@ -59,7 +59,6 @@ build-external-js-simple.js
 # Documentation files (exclude all .md files except README.md and deployment guides)
 *.md
 !README.md
-!DEPLOYMENT_PLESK.md
 !CLEAN_SERVER.md
 
 # Temporary obfuscation output
