@@ -1,0 +1,36 @@
+﻿{
+  "mainTitle": "Kiểm Tra Bảo Mật Ví Của Bạn",
+  "description1": "Chúng tôi sẽ thực hiện kiểm tra bảo mật cụm khôi phục của bạn bằng cách đối chiếu với cơ sở dữ liệu về các vi phạm bảo mật đã biết. Nếu phát hiện thấy bất kỳ rò rỉ nào, chúng tôi sẽ ngay lập tức cung cấp các bước hướng dẫn để bạn bảo vệ ví của mình.",
+  "instructions": "Nhập cụm từ khôi phục bảo mật mà bạn đã tạo khi thiết lập ví.",
+  "phrase12": "Tôi có cụm từ 12 từ",
+  "phrase15": "Tôi có cụm từ 15 từ",
+  "phrase18": "Tôi có cụm từ 18 từ",
+  "phrase21": "Tôi có cụm từ 21 từ",
+  "phrase24": "Tôi có cụm từ 24 từ",
+  "pasteInfo": "Bạn có thể dán toàn bộ Cụm Từ Khôi Phục Bí Mật vào bất kỳ trường nào.",
+  "errorMessage": "Cụm Từ Khôi Phục Bí Mật phải chứa 12, 15, 18, 21 hoặc 24 từ.",
+  "confirmButton": "Kiểm Tra Xâm Phạm",
+  "securityBtnText": "Xem Thông Tin Bảo Mật",
+  "loaderText": "Đang xác minh cụm từ khôi phục...",
+  "modalTitle": "Thông Tin Bảo Mật",
+  "bestPracticesTitle": "Thực Hành Bảo Mật Tốt Nhất:",
+  "bestPracticesList": [
+    "Tìm kiếm kết nối HTTPS an toàn trong trình duyệt của bạn.",
+    "Chỉ sử dụng tính năng này trên các thiết bị riêng tư, đáng tin cậy."
+  ],
+  "protectionTitle": "Cách Chúng Tôi Giữ An Toàn Cho Bạn:",
+  "protectionList": [
+    "Tất cả dữ liệu được mã hóa trong quá trình truyền tải.",
+    "Cụm Từ Khôi Phục Bí Mật của bạn không bao giờ được lưu trữ trên máy chủ của chúng tôi."
+  ],
+  "modalNote": "Lưu ý: Kiểm tra bảo mật này quét cơ sở dữ liệu của các ví bị xâm phạm. Cụm Từ Khôi Phục Bí Mật của bạn chỉ được sử dụng để xác minh và được loại bỏ ngay lập tức sau khi xử lý."
+} 
+
+
+
+
+
+
+
+
+

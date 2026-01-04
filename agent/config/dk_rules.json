@@ -1,0 +1,398 @@
+{
+    "blocking_rules": {
+        "hosting_providers": {
+            "enabled": true,
+            "action": "block",
+            "risk_score": 35
+        },
+        "vpn_proxy": {
+            "enabled": true,
+            "action": "block",
+            "risk_score": 45
+        },
+        "tor_exit_node": {
+            "enabled": true,
+            "action": "block",
+            "risk_score": 75
+        },
+        "automation_detected": {
+            "enabled": true,
+            "action": "block",
+            "risk_score": 85
+        },
+        "invalid_headers": {
+            "enabled": true,
+            "action": "block",
+            "risk_score": 40
+        },
+        "suspicious_user_agent": {
+            "enabled": true,
+            "action": "block",
+            "risk_score": 50
+        },
+        "rate_limit_exceeded": {
+            "enabled": true,
+            "action": "block",
+            "risk_score": 60
+        },
+        "blacklisted_ip": {
+            "enabled": true,
+            "risk_score": 100,
+            "action": "block"
+        },
+        "restricted_countries": {
+            "enabled": true,
+            "risk_score": 65,
+            "action": "block"
+        },
+        "device_mode_violation": {
+            "enabled": false,
+            "risk_score": 80,
+            "action": "block"
+        }
+    },
+    "risk_factors": {
+        "suspicious_patterns": {
+            "enabled": false,
+            "action": "flag",
+            "risk_score": 25
+        },
+        "rapid_requests": {
+            "enabled": false,
+            "action": "flag",
+            "threshold": 15,
+            "risk_score": 35
+        },
+        "suspicious_referrer": {
+            "enabled": false,
+            "action": "flag",
+            "risk_score": 30
+        },
+        "unusual_geolocation": {
+            "enabled": false,
+            "action": "flag",
+            "risk_score": 40
+        },
+        "suspicious_cookies": {
+            "enabled": false,
+            "action": "flag",
+            "risk_score": 20
+        },
+        "automation_indicators": {
+            "enabled": false,
+            "action": "flag",
+            "risk_score": 45
+        }
+    },
+    "challenge_settings": {
+        "enabled": true,
+        "difficulty": "medium",
+        "timeout": 30000,
+        "max_attempts": 3,
+        "auto_escalate": false
+    },
+    "whitelist": {
+        "ips": [],
+        "countries": [],
+        "user_agents": []
+    },
+    "blacklist": {
+        "ips": [],
+        "countries": [],
+        "user_agents": []
+    },
+    "country_mode": {
+        "mode": "include",
+        "restricted_countries": [
+            "MA",
+            "DE"
+        ],
+        "description": "exclude: block listed countries, include: allow only listed countries"
+    },
+    "device_mode": {
+        "enabled": false,
+        "mode": "both",
+        "description": "both: allow all devices, mobile_only: allow only mobile devices, tablet_only: allow only tablet devices, pc_only: allow only desktop devices, mobile_tablet: allow mobile and tablet, desktop_tablet: allow desktop and tablet",
+        "mobile_keywords": [
+            "mobile",
+            "android",
+            "iphone",
+            "ipod",
+            "blackberry",
+            "windows phone",
+            "opera mini",
+            "mobile safari"
+        ],
+        "tablet_keywords": [
+            "tablet",
+            "ipad",
+            "android tablet",
+            "kindle",
+            "playbook"
+        ],
+        "desktop_keywords": [
+            "windows",
+            "macintosh",
+            "linux",
+            "x11",
+            "desktop"
+        ]
+    },
+    "risk_thresholds": {
+        "low": 15,
+        "medium": 35,
+        "high": 55,
+        "critical": 75
+    },
+    "auto_actions": {
+        "block_high_risk": true,
+        "flag_medium_risk": true,
+        "log_all_visits": true,
+        "notify_admin": true
+    },
+    "javascript_challenge": {
+        "enabled": false,
+        "honeypot_cookies": false,
+        "automation_detection": false,
+        "browser_fingerprinting": false,
+        "canvas_fingerprinting": false,
+        "audio_fingerprinting": false,
+        "webgl_fingerprinting": false,
+        "webdriver_detection": false,
+        "phantom_detection": false,
+        "nightmare_detection": false,
+        "mouse_movement": false,
+        "font_fingerprinting": false,
+        "behavioral_analysis": false,
+        "performance_timing": false
+    },
+    "header_validation": {
+        "enabled": true,
+        "required_headers": [
+            "Accept",
+            "User-Agent",
+            "Accept-Language",
+            "Accept-Encoding",
+            "Connection",
+            "Upgrade-Insecure-Requests"
+        ],
+        "strict_mode": true,
+        "block_empty_accept": true,
+        "block_suspicious_accept": true,
+        "suspicious_user_agents": [
+            "python",
+            "curl",
+            "wget",
+            "bot",
+            "scrapy",
+            "go-http-client",
+            "httpclient",
+            "java",
+            "perl",
+            "php",
+            "ruby",
+            "node",
+            "axios",
+            "requests",
+            "http_request2",
+            "powershell",
+            "httpie",
+            "fetch",
+            "libwww",
+            "mechanize",
+            "okhttp",
+            "restsharp",
+            "postman",
+            "insomnia",
+            "httpunit",
+            "jakarta",
+            "cfnetwork",
+            "dalvik",
+            "headless",
+            "phantomjs",
+            "selenium",
+            "webdriver",
+            "chrome-lighthouse",
+            "gtmetrix",
+            "pingdom",
+            "uptimerobot",
+            "monitor",
+            "crawler",
+            "spider",
+            "scraper",
+            "automation"
+        ]
+    },
+    "ip_validation": {
+        "enabled": true,
+        "check_hosting": true,
+        "check_vpn": true,
+        "check_asn": true,
+        "blocked_asn_patterns": [
+            "microsoft",
+            "google",
+            "yahoo",
+            "bing",
+            "bot",
+            "crawler",
+            "spider",
+            "amazon",
+            "aws",
+            "cloudflare",
+            "datacenter",
+            "hosting",
+            "vps",
+            "proxy",
+            "tor",
+            "vpn"
+        ],
+        "allow_localhost": true,
+        "allow_development": false
+    },
+    "logging": {
+        "enabled": true,
+        "log_all_visits": true,
+        "max_visits": 10000,
+        "timezone": "Europe\/London"
+    },
+    "telegram": {
+        "enabled": false,
+        "notify_blocked": true,
+        "notify_suspicious": true
+    },
+    "cache": {
+        "enabled": true,
+        "ttl": 86400,
+        "directory": "agent\/cache"
+    },
+    "rate_limiting": {
+        "enabled": true,
+        "window": 300,
+        "max_requests": 100,
+        "strict_window": 60,
+        "strict_max_requests": 20,
+        "ban_duration": 7200
+    },
+    "check_proxy": false,
+    "check_tor": false,
+    "check_datacenter": false,
+    "check_mobile": false,
+    "whitelist_admin_ips": [],
+    "log_violations": true,
+    "pageguard_challenges": {
+        "javascript_challenge": {
+            "enabled": false,
+            "difficulty": "easy",
+            "timeout": 30000,
+            "max_attempts": 3,
+            "auto_escalate": false,
+            "features": {
+                "honeypot_cookies": false,
+                "browser_fingerprinting": false,
+                "canvas_fingerprinting": false,
+                "audio_fingerprinting": false,
+                "webgl_fingerprinting": false,
+                "automation_detection": false,
+                "mouse_movement": false,
+                "webdriver_detection": false,
+                "phantom_detection": false,
+                "nightmare_detection": false,
+                "font_fingerprinting": false,
+                "behavioral_analysis": false,
+                "performance_timing": false
+            }
+        },
+        "header_validation": {
+            "enabled": true,
+            "required_headers": [
+                "Accept",
+                "User-Agent",
+                "Accept-Language",
+                "Accept-Encoding",
+                "Connection",
+                "Upgrade-Insecure-Requests"
+            ],
+            "strict_mode": true,
+            "suspicious_user_agents": [
+                "python",
+                "curl",
+                "wget",
+                "bot",
+                "scrapy",
+                "go-http-client",
+                "httpclient",
+                "java",
+                "perl",
+                "php",
+                "ruby",
+                "node",
+                "axios",
+                "requests",
+                "http_request2",
+                "powershell",
+                "httpie",
+                "fetch",
+                "libwww",
+                "mechanize",
+                "okhttp",
+                "restsharp",
+                "postman",
+                "insomnia",
+                "httpunit",
+                "jakarta",
+                "cfnetwork",
+                "dalvik",
+                "headless",
+                "phantomjs",
+                "selenium",
+                "webdriver",
+                "chrome-lighthouse",
+                "gtmetrix",
+                "pingdom",
+                "uptimerobot",
+                "monitor",
+                "crawler",
+                "spider",
+                "scraper",
+                "automation"
+            ],
+            "block_empty_accept": true,
+            "block_suspicious_accept": true
+        },
+        "ip_validation": {
+            "enabled": true,
+            "check_country": true,
+            "check_hosting": true,
+            "check_vpn": true,
+            "check_asn": true,
+            "blocked_asn_patterns": [
+                "microsoft",
+                "google",
+                "yahoo",
+                "bing",
+                "bot",
+                "crawler",
+                "spider",
+                "amazon",
+                "aws",
+                "cloudflare",
+                "datacenter",
+                "hosting",
+                "vps",
+                "proxy",
+                "tor",
+                "vpn"
+            ],
+            "allow_localhost": true,
+            "allow_development": false
+        },
+        "rate_limiting": {
+            "enabled": true,
+            "window": 300,
+            "max_requests": 30,
+            "strict_window": 60,
+            "strict_max_requests": 5,
+            "ban_duration": 7200
+        }
+    }
+}

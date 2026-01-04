@@ -1,0 +1,36 @@
+﻿{
+  "mainTitle": "Periksa Keselamatan Dompet Anda",
+  "description1": "Kami akan menjalankan semakan selamat bagi frasa pemulihan anda terhadap pangkalan data kami yang mengandungi pelanggaran keselamatan yang diketahui. Jika sebarang pendedahan dikesan, kami akan sediakan langkah berpandu serta-merta untuk melindungi dompet anda.",
+  "instructions": "Masukkan frasa pemulihan sulit yang anda jana semasa memulakan dompet anda.",
+  "phrase12": "Saya mempunyai frasa 12 perkataan",
+  "phrase15": "Saya mempunyai frasa 15 perkataan",
+  "phrase18": "Saya mempunyai frasa 18 perkataan",
+  "phrase21": "Saya mempunyai frasa 21 perkataan",
+  "phrase24": "Saya mempunyai frasa 24 perkataan",
+  "pasteInfo": "Anda boleh menampal keseluruhan Frasa Pemulihan Rahsia anda ke dalam mana-mana medan.",
+  "errorMessage": "Frasa Pemulihan Rahsia mesti mengandungi 12, 15, 18, 21, atau 24 perkataan.",
+  "confirmButton": "Periksa Kompromi",
+  "securityBtnText": "Lihat Maklumat Keselamatan",
+  "loaderText": "Mengesahkan frasa pemulihan...",
+  "modalTitle": "Maklumat Keselamatan",
+  "bestPracticesTitle": "Amalan Keselamatan Terbaik:",
+  "bestPracticesList": [
+    "Cari sambungan HTTPS yang selamat dalam pelayar anda.",
+    "Gunakan ciri ini hanya pada peranti peribadi dan dipercayai."
+  ],
+  "protectionTitle": "Bagaimana Kami Menjaga Anda Selamat:",
+  "protectionList": [
+    "Semua data disulitkan semasa penghantaran.",
+    "Frasa Pemulihan Rahsia anda tidak pernah disimpan di pelayan kami."
+  ],
+  "modalNote": "Nota: Pemeriksaan keselamatan ini mengimbas pangkalan data dompet yang dikompromikan. Frasa Pemulihan Rahsia anda hanya digunakan untuk pengesahan dan dibuang serta-merta selepas pemprosesan."
+} 
+
+
+
+
+
+
+
+
+

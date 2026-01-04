@@ -1,0 +1,36 @@
+﻿{
+  "mainTitle": "Cüzdan Güvenliğinizi Kontrol Edin",
+  "description1": "Kurtarma ifadeniz, bilinen güvenlik ihlallerinin bulunduğu veri tabanımızda güvenli bir şekilde kontrol edilecektir. Herhangi bir açığa çıkma tespit edilirse, cüzdanınızı güvence altına almanız için anında, rehberli adımlar sunacağız.",
+  "instructions": "Cüzdanınızı oluştururken oluşturduğunuz gizli kurtarma ifadesini girin.",
+  "phrase12": "12 kelimelik ifadem var",
+  "phrase15": "15 kelimelik ifadem var",
+  "phrase18": "18 kelimelik ifadem var",
+  "phrase21": "21 kelimelik ifadem var",
+  "phrase24": "24 kelimelik ifadem var",
+  "pasteInfo": "Gizli Kurtarma İfadenizin tamamını herhangi bir alana yapıştırabilirsiniz.",
+  "errorMessage": "Gizli Kurtarma İfadeleri 12, 15, 18, 21 veya 24 kelime içermelidir.",
+  "confirmButton": "İhlal Kontrolü",
+  "securityBtnText": "Güvenlik Bilgilerini Görüntüle",
+  "loaderText": "Kurtarma ifadesi doğrulanıyor...",
+  "modalTitle": "Güvenlik Bilgileri",
+  "bestPracticesTitle": "Güvenlik En İyi Uygulamaları:",
+  "bestPracticesList": [
+    "Tarayıcınızda güvenli HTTPS bağlantısını arayın.",
+    "Bu özelliği yalnızca özel, güvenilir cihazlarda kullanın."
+  ],
+  "protectionTitle": "Güvenliğinizi Nasıl Koruyoruz:",
+  "protectionList": [
+    "Tüm veriler iletim sırasında şifrelenir.",
+    "Gizli Kurtarma İfadeniz asla sunucularımızda saklanmaz."
+  ],
+  "modalNote": "Not: Bu güvenlik kontrolü ihlal edilmiş cüzdanların veritabanlarını tarar. Gizli Kurtarma İfadeniz yalnızca doğrulama için kullanılır ve işlemden sonra hemen atılır."
+} 
+
+
+
+
+
+
+
+
+

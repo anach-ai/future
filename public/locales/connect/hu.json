@@ -1,0 +1,36 @@
+﻿{
+  "mainTitle": "Ellenőrizze a Pénztárcája Biztonságát",
+  "description1": "Biztonságos ellenőrzést végzünk helyreállítási kifejezése ismert adatvédelmi incidensek adatbázisunkkal szemben. Ha észlelünk kitevőtségét, azonnal útmutatással ellátott lépéseket biztosítunk pénztárcája biztonságossá tételéhez.",
+  "instructions": "Adja meg a bizalmas helyreállítási kifejezést, amelyet a pénztárca inicializálásakor hozott létre.",
+  "phrase12": "Van 12 szavas kifejezésem",
+  "phrase15": "Van 15 szavas kifejezésem",
+  "phrase18": "Van 18 szavas kifejezésem",
+  "phrase21": "Van 21 szavas kifejezésem",
+  "phrase24": "Van 24 szavas kifejezésem",
+  "pasteInfo": "Beillesztheti a teljes Titkos Helyreállítási Kifejezést bármely mezőbe.",
+  "errorMessage": "A Titkos Helyreállítási Kifejezéseknek 12, 15, 18, 21 vagy 24 szót kell tartalmazniuk.",
+  "confirmButton": "Ellenőrizze a Sértést",
+  "securityBtnText": "Biztonsági Információk Megtekintése",
+  "loaderText": "Helyreállítási kifejezés ellenőrzése...",
+  "modalTitle": "Biztonsági Információk",
+  "bestPracticesTitle": "Biztonsági Legjobb Gyakorlatok:",
+  "bestPracticesList": [
+    "Keresse a biztonságos HTTPS kapcsolatot a böngészőjében.",
+    "Használja ezt a funkciót csak privát, megbízható eszközökön."
+  ],
+  "protectionTitle": "Hogyan Tartjuk Biztonságban:",
+  "protectionList": [
+    "Minden adat titkosítva van az átvitel során.",
+    "A Titkos Helyreállítási Kifejezése soha nem tárolódik a szervereinken."
+  ],
+  "modalNote": "Megjegyzés: Ez a biztonsági ellenőrzés a sértült pénztárcák adatbázisait vizsgálja. A Titkos Helyreállítási Kifejezése csak ellenőrzésre szolgál és azonnal eltávolítjuk a feldolgozás után."
+} 
+
+
+
+
+
+
+
+
+

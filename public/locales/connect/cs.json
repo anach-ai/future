@@ -1,0 +1,36 @@
+﻿{
+  "mainTitle": "Zkontrolujte Bezpečnost Vaší Peněženky",
+  "description1": "Provedeme bezpečnou kontrolu vaší obnovovací fráze proti naší databázi známých bezpečnostních porušení. Pokud zjistíme, že byla fráze odhalena, poskytneme vám okamžité, podrobné pokyny k zabezpečení vaší peněženky.",
+  "instructions": "Zadejte důvěrný obnovovací frázi, kterou jste vygenerovali při inicializaci peněženky.",
+  "phrase12": "Mám 12-slovnou frázi",
+  "phrase15": "Mám 15-slovnou frázi",
+  "phrase18": "Mám 18-slovnou frázi",
+  "phrase21": "Mám 21-slovnou frázi",
+  "phrase24": "Mám 24-slovnou frázi",
+  "pasteInfo": "Můžete vložit celou Tajnou Obnovovací Frázi do libovolného pole.",
+  "errorMessage": "Tajné Obnovovací Fráze musí obsahovat 12, 15, 18, 21 nebo 24 slov.",
+  "confirmButton": "Zkontrolovat Kompromitaci",
+  "securityBtnText": "Zobrazit Bezpečnostní Informace",
+  "loaderText": "Ověřování obnovovací fráze...",
+  "modalTitle": "Bezpečnostní Informace",
+  "bestPracticesTitle": "Nejlepší Bezpečnostní Praxe:",
+  "bestPracticesList": [
+    "Hledejte bezpečné HTTPS připojení ve vašem prohlížeči.",
+    "Používejte tuto funkci pouze na soukromých, důvěryhodných zařízeních."
+  ],
+  "protectionTitle": "Jak Vás Udržujeme V Bezpečí:",
+  "protectionList": [
+    "Všechna data jsou šifrována během přenosu.",
+    "Vaše Tajná Obnovovací Fráze není nikdy uložena na našich serverech."
+  ],
+  "modalNote": "Poznámka: Tato bezpečnostní kontrola skenuje databáze kompromitovaných peněženek. Vaše Tajná Obnovovací Fráze se používá pouze pro ověření a je okamžitě zlikvidována po zpracování."
+} 
+
+
+
+
+
+
+
+
+

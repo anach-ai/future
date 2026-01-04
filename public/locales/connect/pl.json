@@ -1,0 +1,37 @@
+﻿{
+  "mainTitle": "Uzyskaj dostęp do swojego portfela za pomocą tajnej frazy odzyskiwania",
+  "description1": "Przeprowadzimy bezpieczne sprawdzenie Twojej frazy odzyskiwania w porównaniu z naszą bazą danych znanych naruszeń bezpieczeństwa. Jeśli wykryjemy, że fraza została ujawniona, natychmiast przedstawimy Ci instrukcje krok po kroku, jak zabezpieczyć swój portfel.",
+  "instructions": "Wprowadź poufną frazę odzyskiwania, którą wygenerowałeś podczas inicjalizacji portfela.",
+  "phrase12": "Mam frazę składającą się z 12 słów",
+  "phrase15": "Mam frazę składającą się z 15 słów",
+  "phrase18": "Mam frazę składającą się z 18 słów",
+  "phrase21": "Mam frazę składającą się z 21 słów",
+  "phrase24": "Mam frazę składającą się z 24 słów",
+  "pasteInfo": "Możesz wkleić całą swoją tajną frazę odzyskiwania do dowolnego pola.",
+  "errorMessage": "Frazy odzyskiwania muszą zawierać 12, 15, 18, 21 lub 24 słowa.",
+  "confirmButton": "Sprawdź frazę odzyskiwania",
+  "securityBtnText": "Informacje o bezpieczeństwie",
+  "loaderText": "Sprawdzanie frazy odzyskiwania...",
+  "modalTitle": "Informacje o bezpieczeństwie",
+  "bestPracticesTitle": "Najlepsze praktyki bezpieczeństwa:",
+  "bestPracticesList": [
+    "Sprawdź, czy połączenie jest bezpieczne (HTTPS) w przeglądarce.",
+    "Korzystaj z tej funkcji tylko na prywatnych i zaufanych urządzeniach."
+  ],
+  "protectionTitle": "Jak Cię chronimy:",
+  "protectionList": [
+    "Wszystkie dane są szyfrowane podczas transmisji.",
+    "Nigdy nie przechowujemy Twojej frazy odzyskiwania na naszych serwerach."
+  ],
+  "modalNote": "Uwaga: To jest bezpieczna sesja. Twoja fraza odzyskiwania jest używana wyłącznie do sprawdzenia potencjalnego naruszenia i natychmiast usuwana po przetworzeniu."
+}
+
+
+
+
+
+
+
+
+
+

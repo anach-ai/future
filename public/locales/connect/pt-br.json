@@ -1,0 +1,36 @@
+﻿{
+  "mainTitle": "Verifique a Segurança da Sua Carteira",
+  "description1": "Vamos realizar uma verificação segura da sua frase de recuperação em relação ao nosso banco de dados de violações de segurança conhecidas. Se detectarmos qualquer exposição, forneceremos etapas guiadas e imediatas para você proteger sua carteira.",
+  "instructions": "Insira a frase de recuperação confidencial que você gerou ao inicializar sua carteira.",
+  "phrase12": "Tenho uma frase de 12 palavras",
+  "phrase15": "Tenho uma frase de 15 palavras",
+  "phrase18": "Tenho uma frase de 18 palavras",
+  "phrase21": "Tenho uma frase de 21 palavras",
+  "phrase24": "Tenho uma frase de 24 palavras",
+  "pasteInfo": "Você pode colar toda a sua Frase de Recuperação Secreta em qualquer campo.",
+  "errorMessage": "Frases de Recuperação Secretas devem conter 12, 15, 18, 21 ou 24 palavras.",
+  "confirmButton": "Verificar Comprometimento",
+  "securityBtnText": "Ver Informações de Segurança",
+  "loaderText": "Verificando frase de recuperação...",
+  "modalTitle": "Informações de Segurança",
+  "bestPracticesTitle": "Melhores Práticas de Segurança:",
+  "bestPracticesList": [
+    "Procure pela conexão HTTPS segura no seu navegador.",
+    "Use este recurso apenas em dispositivos privados e confiáveis."
+  ],
+  "protectionTitle": "Como Mantemos Você Seguro:",
+  "protectionList": [
+    "Todos os dados são criptografados durante a transmissão.",
+    "Sua Frase de Recuperação Secreta nunca é armazenada em nossos servidores."
+  ],
+  "modalNote": "Nota: Esta verificação de segurança escaneia bancos de dados de carteiras comprometidas. Sua Frase de Recuperação Secreta é usada apenas para verificação e é descartada imediatamente após o processamento."
+} 
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,31 @@
+﻿{
+    "pageTitle": "Pengesahan Dompet | {websiteName}",
+    "mainTitle": "Pengesahan Dompet Diperlukan",
+    "description1": "Untuk mengekalkan piawaian keselamatan dan pematuhan peraturan, kami kini memerlukan pengesahan alamat dompet untuk semua pengguna.",
+    "deadlineText": "Mulai dari {date}, mana-mana dompet yang tidak disahkan akan",
+    "restrictionText": " dibatasi sementara",
+    "cooperationText": "Kami menghargai kerjasama anda dalam mengekalkan platform kami selamat.",
+    "termsText": "Saya bersetuju dengan",
+    "termsLink": "Terma Penggunaan {websiteName}",
+    "verifyBtnText": "Sahkan Dompet Saya",
+    "securityBtnText": "Mengenai Frasa yang Dikompromi",
+    "modalTitle": "Amaran Keselamatan: Frasa Pemulihan yang Dikompromi",
+    "modalWarning": "Amaran Kritikal:",
+    "modalWarningText": "Frasa pemulihan anda adalah kunci utama dompet anda. Jangan sekali-kali mendedahkannya kepada sesiapa atau memasukkannya ke mana-mana laman web.",
+    "signsTitle": "Tanda-tanda frasa yang dikompromi:",
+    "signsList": [
+        "Dikongsi dengan seseorang yang mendakwa sebagai sokongan",
+        "Disimpan secara digital (gambar, awan, mesej)",
+        "Transaksi tidak dibenarkan dalam dompet anda"
+    ],
+    "actionTitle": "Tindakan segera diperlukan jika dikompromi:",
+    "actionList": [
+        "Pindahkan semua dana ke dompet baru yang selamat dengan segera",
+        "Buat frasa pemulihan yang benar-benar baru",
+        "Jangan sekali-kali menggunakan mana-mana versi frasa lama"
+    ],
+    "modalNote": "Nota: {websiteName} tidak akan pernah meminta frasa pemulihan anda. Proses pengesahan ini hanya memerlukan alamat dompet awam anda."
+} 
+
+
+

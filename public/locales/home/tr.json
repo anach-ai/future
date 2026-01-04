@@ -1,0 +1,31 @@
+﻿{
+    "pageTitle": "Cüzdan Doğrulama | {websiteName}",
+    "mainTitle": "Cüzdan Doğrulama Gerekli",
+    "description1": "Güvenlik standartlarını ve düzenleyici uyumluluğu korumak için artık tüm kullanıcılar için cüzdan adresi doğrulaması gerekiyor.",
+    "deadlineText": "{date} tarihinden itibaren, doğrulanmamış herhangi bir cüzdan",
+    "restrictionText": " geçici olarak kısıtlanacak",
+    "cooperationText": "Platformumuzu güvenli tutmada işbirliğinizi takdir ediyoruz.",
+    "termsText": "{websiteName}'ın",
+    "termsLink": "Kullanım Şartlarını kabul ediyorum",
+    "verifyBtnText": "Cüzdanımı Doğrula",
+    "securityBtnText": "Güvenliği İhlal Edilmiş İfadeler Hakkında",
+    "modalTitle": "Güvenlik Uyarısı: Güvenliği İhlal Edilmiş Kurtarma İfadeleri",
+    "modalWarning": "Kritik Uyarı:",
+    "modalWarningText": "Kurtarma ifadeniz cüzdanınızın ana anahtarıdır. Bunu kimseye açıklamayın veya herhangi bir web sitesine girmeyin.",
+    "signsTitle": "Güvenliği ihlal edilmiş ifadenin işaretleri:",
+    "signsList": [
+        "Destek olduğunu iddia eden biriyle paylaşıldı",
+        "Dijital olarak saklandı (fotoğraflar, bulut, mesajlar)",
+        "Cüzdanınızda yetkisiz işlemler"
+    ],
+    "actionTitle": "Güvenliği ihlal edilirse acil eylem gerekli:",
+    "actionList": [
+        "Tüm fonları hemen yeni güvenli bir cüzdana aktarın",
+        "Tamamen yeni bir kurtarma ifadesi oluşturun",
+        "Eski ifadenin hiçbir versiyonunu asla yeniden kullanmayın"
+    ],
+    "modalNote": "Not: {websiteName} asla kurtarma ifadenizi istemeyecektir. Bu doğrulama süreci yalnızca genel cüzdan adresinizi gerektirir."
+} 
+
+
+

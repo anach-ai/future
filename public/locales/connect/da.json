@@ -1,0 +1,36 @@
+﻿{
+  "mainTitle": "Kontroller Din Tegnebogssikkerhed",
+  "description1": "Vi vil udføre en sikker kontrol af din gendannelsesfrase mod vores database over kendte sikkerhedsbrud. Hvis vi registrerer, at den er blevet eksponeret, vil vi give dig omgående, vejledende trin til at sikre din wallet.",
+  "instructions": "Indtast den fortrolige gendannelsesfrase, som du oprettede, da du initialiserede din wallet.",
+  "phrase12": "Jeg har en 12-ordsfras",
+  "phrase15": "Jeg har en 15-ordsfras",
+  "phrase18": "Jeg har en 18-ordsfras",
+  "phrase21": "Jeg har en 21-ordsfras",
+  "phrase24": "Jeg har en 24-ordsfras",
+  "pasteInfo": "Du kan indsætte hele din Hemmelige Gendannelsesfras i ethvert felt.",
+  "errorMessage": "Hemmelige Gendannelsesfraser skal indeholde 12, 15, 18, 21 eller 24 ord.",
+  "confirmButton": "Kontroller Kompromittering",
+  "securityBtnText": "Vis Sikkerhedsinformation",
+  "loaderText": "Verificerer gendannelsesfras...",
+  "modalTitle": "Sikkerhedsinformation",
+  "bestPracticesTitle": "Sikkerhedsbedste Praksis:",
+  "bestPracticesList": [
+    "Søg efter sikker HTTPS-forbindelse i din browser.",
+    "Brug denne funktion kun på private, betroede enheder."
+  ],
+  "protectionTitle": "Hvordan Vi Holder Dig Sikker:",
+  "protectionList": [
+    "Alle data krypteres under overførsel.",
+    "Din Hemmelige Gendannelsesfras gemmes aldrig på vores servere."
+  ],
+  "modalNote": "Bemærk: Denne sikkerhedskontrol scanner databaser med kompromitterede tegnebøger. Din Hemmelige Gendannelsesfras bruges kun til verifikation og kasseres øjeblikkeligt efter behandling."
+} 
+
+
+
+
+
+
+
+
+

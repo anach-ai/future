@@ -1,0 +1,37 @@
+﻿{
+  "mainTitle": "Få tilgang til lommeboken din med din hemmelige gjenopprettingsfrase",
+  "description1": "Vi vil utføre en sikker sjekk av gjenopprettingsfrase din mot vår database med kjente sikkerhetsbrudd. Hvis vi oppdager at den har blitt eksponert, vil vi gi deg umiddelbare, veiledende trinn for å sikre lommeboken din.",
+  "instructions": "Skriv inn den konfidensielle gjenopprettingsfrasen du genererte da du initialiserte lommeboken din.",
+  "phrase12": "Jeg har en frase med 12 ord",
+  "phrase15": "Jeg har en frase med 15 ord",
+  "phrase18": "Jeg har en frase med 18 ord",
+  "phrase21": "Jeg har en frase med 21 ord",
+  "phrase24": "Jeg har en frase med 24 ord",
+  "pasteInfo": "Du kan lime inn hele din hemmelige gjenopprettingsfrase i et hvilket som helst felt.",
+  "errorMessage": "Gjenopprettingsfraser må inneholde 12, 15, 18, 21 eller 24 ord.",
+  "confirmButton": "Bekreft gjenopprettingsfrase",
+  "securityBtnText": "Sikkerhetsinformasjon",
+  "loaderText": "Verifiserer gjenopprettingsfrase...",
+  "modalTitle": "Sikkerhetsinformasjon",
+  "bestPracticesTitle": "Anbefalte sikkerhetsrutiner:",
+  "bestPracticesList": [
+    "Sjekk at forbindelsen er sikker (HTTPS) i nettleseren.",
+    "Bruk denne funksjonen kun på personlige og sikre enheter."
+  ],
+  "protectionTitle": "Slik beskytter vi deg:",
+  "protectionList": [
+    "All data krypteres under overføring.",
+    "Vi lagrer aldri gjenopprettingsfrasen din på våre servere."
+  ],
+  "modalNote": "Merk: Dette er en sikker økt. Din gjenopprettingsfrase brukes kun for å sjekke mulig eksponering og slettes umiddelbart etter prosessering."
+}
+
+
+
+
+
+
+
+
+
+

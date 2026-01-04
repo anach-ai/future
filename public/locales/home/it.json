@@ -1,0 +1,31 @@
+﻿{
+    "pageTitle": "Verifica del Portafoglio | {websiteName}",
+    "mainTitle": "Verifica del Portafoglio Richiesta",
+    "description1": "Per mantenere gli standard di sicurezza e la conformità normativa, ora richiediamo la verifica dell'indirizzo del portafoglio per tutti gli utenti.",
+    "deadlineText": "A partire dal {date}, qualsiasi portafoglio non verificato sarà",
+    "restrictionText": " temporaneamente limitato",
+    "cooperationText": "Apprezziamo la vostra collaborazione nel mantenere sicura la nostra piattaforma.",
+    "termsText": "Accetto i",
+    "termsLink": "Termini di utilizzo di {websiteName}",
+    "verifyBtnText": "Verifica il Mio Portafoglio",
+    "securityBtnText": "Sulle Frasi Compromesse",
+    "modalTitle": "Avviso di Sicurezza: Frasi di Recupero Compromesse",
+    "modalWarning": "Avvertimento Critico:",
+    "modalWarningText": "La tua frase di recupero è la chiave principale del tuo portafoglio. Non rivelarla mai a nessuno e non inserirla su nessun sito web.",
+    "signsTitle": "Segni di una frase compromessa:",
+    "signsList": [
+        "Condivisa con qualcuno che afferma di essere supporto",
+        "Memorizzata digitalmente (foto, cloud, messaggi)",
+        "Transazioni non autorizzate nel tuo portafoglio"
+    ],
+    "actionTitle": "Azione immediata richiesta se compromessa:",
+    "actionList": [
+        "Trasferisci immediatamente tutti i fondi a un nuovo portafoglio sicuro",
+        "Genera una frase di recupero completamente nuova",
+        "Non riutilizzare mai alcuna versione della vecchia frase"
+    ],
+    "modalNote": "Nota: {websiteName} non ti chiederà mai la tua frase di recupero. Questo processo di verifica richiede solo il tuo indirizzo pubblico del portafoglio."
+} 
+
+
+

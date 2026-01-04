@@ -1,0 +1,36 @@
+﻿{
+  "mainTitle": "Controlla la Sicurezza del Tuo Portafoglio",
+  "description1": "Eseguiremo un controllo sicuro della tua frase di recupero confrontandola con il nostro database di violazioni della sicurezza note. Se rileviamo una sua esposizione, ti forniremo immediatamente una guida passo-passo per mettere al sicuro il tuo wallet.",
+  "instructions": "Inserisci la frase di recupero riservata che hai generato durante l'inizializzazione del tuo wallet.",
+  "phrase12": "Ho una frase di 12 parole",
+  "phrase15": "Ho una frase di 15 parole",
+  "phrase18": "Ho una frase di 18 parole",
+  "phrase21": "Ho una frase di 21 parole",
+  "phrase24": "Ho una frase di 24 parole",
+  "pasteInfo": "Puoi incollare l'intera Frase di Recupero Segreta in qualsiasi campo.",
+  "errorMessage": "Le Frasi di Recupero Segrete devono contenere 12, 15, 18, 21 o 24 parole.",
+  "confirmButton": "Controlla Compromissione",
+  "securityBtnText": "Visualizza Informazioni di Sicurezza",
+  "loaderText": "Verifica della frase di recupero...",
+  "modalTitle": "Informazioni di Sicurezza",
+  "bestPracticesTitle": "Migliori Pratiche di Sicurezza:",
+  "bestPracticesList": [
+    "Cerca la connessione HTTPS sicura nel tuo browser.",
+    "Usa questa funzione solo su dispositivi privati e affidabili."
+  ],
+  "protectionTitle": "Come Manteniamo la Tua Sicurezza:",
+  "protectionList": [
+    "Tutti i dati sono crittografati durante la trasmissione.",
+    "La tua Frase di Recupero Segreta non viene mai memorizzata sui nostri server."
+  ],
+  "modalNote": "Nota: Questo controllo di sicurezza esegue la scansione dei database di portafogli compromessi. La tua Frase di Recupero Segreta viene utilizzata solo per la verifica e viene immediatamente eliminata dopo l'elaborazione."
+} 
+
+
+
+
+
+
+
+
+

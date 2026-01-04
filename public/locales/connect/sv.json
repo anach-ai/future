@@ -1,0 +1,36 @@
+﻿{
+  "mainTitle": "Kontrollera Din Plånboks Säkerhet",
+  "description1": "Vi kommer att utföra en säker kontroll av din återställningsfras mot vår databas med kända säkerhetsincidenter. Om vi upptäcker att den har exponerats kommer vi att omedelbart ge dig vägledande steg för att skydda din plånbok.",
+  "instructions": "Ange den konfidentiella återställningsfras som du skapade när du initierade din plånbok.",
+  "phrase12": "Jag har en 12-ordsfras",
+  "phrase15": "Jag har en 15-ordsfras",
+  "phrase18": "Jag har en 18-ordsfras",
+  "phrase21": "Jag har en 21-ordsfras",
+  "phrase24": "Jag har en 24-ordsfras",
+  "pasteInfo": "Du kan klistra in hela din Hemliga Återställningsfras i vilket fält som helst.",
+  "errorMessage": "Hemliga Återställningsfraser måste innehålla 12, 15, 18, 21 eller 24 ord.",
+  "confirmButton": "Kontrollera Kompromettering",
+  "securityBtnText": "Visa Säkerhetsinformation",
+  "loaderText": "Verifierar återställningsfras...",
+  "modalTitle": "Säkerhetsinformation",
+  "bestPracticesTitle": "Säkerhetsbästa Praktiker:",
+  "bestPracticesList": [
+    "Leta efter säker HTTPS-anslutning i din webbläsare.",
+    "Använd denna funktion endast på privata, betrodda enheter."
+  ],
+  "protectionTitle": "Hur Vi Håller Dig Säker:",
+  "protectionList": [
+    "All data krypteras under överföring.",
+    "Din Hemliga Återställningsfras lagras aldrig på våra servrar."
+  ],
+  "modalNote": "Notera: Denna säkerhetskontroll skannar databaser med komprometterade plånböcker. Din Hemliga Återställningsfras används endast för verifiering och kasseras omedelbart efter bearbetning."
+} 
+
+
+
+
+
+
+
+
+

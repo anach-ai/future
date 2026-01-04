@@ -1,0 +1,104 @@
+.home-page {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+#main {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem 0;
+}
+
+.container {
+  max-width: 600px;
+  width: 100%;
+  padding: 0 1rem;
+}
+
+.thebox {
+  background: #fff;
+  border-radius: 12px;
+  padding: 2rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.title h3 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.title p {
+  color: #666;
+  margin-bottom: 0.5rem;
+}
+
+.terms-container {
+  display: flex;
+  align-items: center;
+  margin: 1.5rem 0;
+  gap: 0.5rem;
+}
+
+.terms-checkbox {
+  width: 18px;
+  height: 18px;
+}
+
+.terms-label {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  font-size: 0.9rem;
+}
+
+.terms-label a {
+  color: #3498db;
+  text-decoration: none;
+}
+
+.btns {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+#verifyBtn {
+  padding: 1rem;
+  background: #e0e0e0;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: not-allowed;
+  transition: all 0.3s;
+}
+
+#verifyBtn.active {
+  background: #3498db;
+  color: white;
+  cursor: pointer;
+}
+
+#verifyBtn.active:hover {
+  background: #2980b9;
+}
+
+.security-info-btn {
+  padding: 0.75rem;
+  background: transparent;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.security-info-btn:hover {
+  background: #f5f5f5;
+}
+

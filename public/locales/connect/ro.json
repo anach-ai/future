@@ -1,0 +1,36 @@
+﻿{
+  "mainTitle": "Verificați Securitatea Portofelului Dvs.",
+  "description1": "Vom efectua o verificare securizată a frazei dvs. de recuperare în comparație cu baza noastră de date a încălcărilor de securitate cunoscute. Dacă detectăm o expunere, vă vom oferi imediat pași ghidați pentru a vă securiza portofelul.",
+  "instructions": "Introduceți fraza confidențială de recuperare pe care ați generat-o la inițializarea portofelului.",
+  "phrase12": "Am o frază de 12 cuvinte",
+  "phrase15": "Am o frază de 15 cuvinte",
+  "phrase18": "Am o frază de 18 cuvinte",
+  "phrase21": "Am o frază de 21 de cuvinte",
+  "phrase24": "Am o frază de 24 de cuvinte",
+  "pasteInfo": "Puteți lipi întreaga Fraza Secretă de Recuperare în orice câmp.",
+  "errorMessage": "Frazelor Secrete de Recuperare trebuie să conțină 12, 15, 18, 21 sau 24 de cuvinte.",
+  "confirmButton": "Verificați Compromiterea",
+  "securityBtnText": "Vizualizați Informațiile de Securitate",
+  "loaderText": "Se verifică fraza de recuperare...",
+  "modalTitle": "Informații de Securitate",
+  "bestPracticesTitle": "Cele Mai Bune Practici de Securitate:",
+  "bestPracticesList": [
+    "Căutați conexiunea HTTPS sigură în browser-ul dvs.",
+    "Folosiți această funcție doar pe dispozitive private și de încredere."
+  ],
+  "protectionTitle": "Cum Vă Menținem în Siguranță:",
+  "protectionList": [
+    "Toate datele sunt criptate în timpul transmisiei.",
+    "Fraza Secretă de Recuperare nu este niciodată stocată pe serverele noastre."
+  ],
+  "modalNote": "Notă: Această verificare de securitate scanează bazele de date ale portofelelor compromise. Fraza Secretă de Recuperare este folosită doar pentru verificare și este eliminată imediat după procesare."
+} 
+
+
+
+
+
+
+
+
+

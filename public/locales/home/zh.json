@@ -1,0 +1,31 @@
+﻿{
+    "pageTitle": "钱包验证 | {websiteName}",
+    "mainTitle": "需要钱包验证",
+    "description1": "为了维护安全标准和监管合规性，我们现在要求所有用户进行钱包地址验证。",
+    "deadlineText": "从 {date} 开始，任何未验证的钱包将被",
+    "restrictionText": " 临时限制",
+    "cooperationText": "我们感谢您为保持我们平台安全而进行的合作。",
+    "termsText": "我同意 {websiteName} 的",
+    "termsLink": "使用条款",
+    "verifyBtnText": "验证我的钱包",
+    "securityBtnText": "关于泄露的助记词",
+    "modalTitle": "安全警告：泄露的恢复助记词",
+    "modalWarning": "严重警告：",
+    "modalWarningText": "您的恢复助记词是您钱包的主密钥。永远不要向任何人透露或在任何网站上输入。",
+    "signsTitle": "助记词泄露的迹象：",
+    "signsList": [
+        "与声称是客服的人分享",
+        "数字存储（照片、云存储、消息）",
+        "钱包中的未授权交易"
+    ],
+    "actionTitle": "如果泄露需要立即采取行动：",
+    "actionList": [
+        "立即将所有资金转移到新的安全钱包",
+        "生成全新的恢复助记词",
+        "永远不要使用旧助记词的任何版本"
+    ],
+    "modalNote": "注意：{websiteName} 永远不会要求您提供恢复助记词。此验证过程只需要您的公共钱包地址。"
+} 
+
+
+

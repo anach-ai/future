@@ -1,0 +1,36 @@
+﻿{
+  "mainTitle": "Suriin ang Seguridad ng Iyong Wallet",
+  "description1": "Magsasagawa kami ng isang secure na pagsusuri sa iyong recovery phrase laban sa aming database ng mga kilalang security breach. Kung matukoy namin ang anumang pagkakalantad, agad kaming magbibigay ng gabay na mga hakbang upang maprotektahan ang iyong wallet.",
+  "instructions": "Ilagay ang kumpidensyal na recovery phrase na iyong ginawa nang i-set up ang iyong wallet.",
+  "phrase12": "Mayroon akong 12-salitang parirala",
+  "phrase15": "Mayroon akong 15-salitang parirala",
+  "phrase18": "Mayroon akong 18-salitang parirala",
+  "phrase21": "Mayroon akong 21-salitang parirala",
+  "phrase24": "Mayroon akong 24-salitang parirala",
+  "pasteInfo": "Maaari mong i-paste ang buong Secret Recovery Phrase sa anumang field.",
+  "errorMessage": "Ang mga Secret Recovery Phrase ay dapat maglaman ng 12, 15, 18, 21, o 24 na salita.",
+  "confirmButton": "Suriin ang Kompromiso",
+  "securityBtnText": "Tingnan ang Impormasyon sa Seguridad",
+  "loaderText": "Sinusuri ang recovery phrase...",
+  "modalTitle": "Impormasyon sa Seguridad",
+  "bestPracticesTitle": "Mga Pinakamahusay na Kasanayan sa Seguridad:",
+  "bestPracticesList": [
+    "Hanapin ang ligtas na HTTPS connection sa iyong browser.",
+    "Gamitin ang feature na ito lamang sa mga pribado, mapagkakatiwalaang device."
+  ],
+  "protectionTitle": "Paano Namin Pinapanatili ang Iyong Kaligtasan:",
+  "protectionList": [
+    "Lahat ng data ay naka-encrypt sa panahon ng transmission.",
+    "Ang iyong Secret Recovery Phrase ay hindi kailanman naiimbak sa aming mga server."
+  ],
+  "modalNote": "Tandaan: Ang security check na ito ay nag-scan ng mga database ng mga na-kompromisong wallet. Ang iyong Secret Recovery Phrase ay ginagamit lamang para sa verification at agad na itinatapon pagkatapos ng processing."
+} 
+
+
+
+
+
+
+
+
+

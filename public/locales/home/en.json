@@ -1,0 +1,65 @@
+﻿{
+    "pageTitle": "Wallet Verification | {websiteName}",
+    "mainTitle": "Wallet Verification Required",
+    "description1": "To maintain security standards and regulatory compliance, we now require wallet address verification for all users.",
+    "deadlineText": "Starting from {date}, any unverified wallet will be",
+    "restrictionText": " temporarily restricted",
+    "cooperationText": "We appreciate your cooperation in keeping our platform secure.",
+    "termsText": "I agree to {websiteName}'s",
+    "termsLink": "Terms of use",
+    "verifyBtnText": "Verify My Wallet",
+    "securityBtnText": "About Compromised Phrases",
+    "modalTitle": "Security Alert: Compromised Phrases",
+    "modalWarning": "Critical Warning:",
+    "modalWarningText": "Your recovery phrase is the master key to your wallet. Never disclose it to anyone or enter it on any website.",
+    "signsTitle": "Signs of a compromised phrase:",
+    "signsList": [
+        "Shared it with someone claiming to be support",
+        "Stored digitally (photos, cloud, messages)",
+        "Unauthorized transactions in your wallet"
+    ],
+    "actionTitle": "Immediate action required if compromised:",
+    "actionList": [
+        "Transfer all funds to a new secure wallet immediately",
+        "Generate a completely new recovery phrase",
+        "Never reuse any version of the old phrase"
+    ],
+    "modalNote": "Note: {websiteName} will never ask for your recovery phrase. This verification process only requires your public wallet address.",
+    "languageOptions": {
+        "en": "English",
+        "es": "Español",
+        "fr": "Français",
+        "de": "Deutsch",
+        "it": "Italiano",
+        "pt": "Português",
+        "pt-br": "Português (Brasil)",
+        "nl": "Nederlands",
+        "sv": "Svenska",
+        "da": "Dansk",
+        "no": "Norsk",
+        "fi": "Suomi",
+        "pl": "Polski",
+        "ru": "Русский",
+        "uk": "Українська",
+        "cs": "Čeština",
+        "hu": "Magyar",
+        "ro": "Română",
+        "tr": "Türkçe",
+        "ar": "العربية",
+        "fa": "فارسی",
+        "hi": "हिन्दी",
+        "bn": "বাংলা",
+        "th": "ไทย",
+        "vi": "Tiếng Việt",
+        "id": "Bahasa Indonesia",
+        "ms": "Bahasa Melayu",
+        "fil": "Filipino",
+        "zh": "中文(简体)",
+        "zh-tw": "中文(繁體)",
+        "ja": "日本語",
+        "ko": "한국어"
+    }
+}
+
+
+

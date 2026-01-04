@@ -1,0 +1,36 @@
+﻿{
+  "mainTitle": "Tarkista Lompakkosi Turvallisuus",
+  "description1": "Suoritamme turvallisen tarkistuksen palautuslauseellesi tunnettujen tietoturvaloukkaustietojemme avulla. Jos havaitsemme, että lause on vaarantunut, tarjoamme sinulle välittömät, ohjeelliset toimet lompakkosi suojaamiseksi.",
+  "instructions": "Syötä salainen palautuslause, jonka loit lompakon alustamisen yhteydessä.",
+  "phrase12": "Minulla on 12-sanaisen lause",
+  "phrase15": "Minulla on 15-sanaisen lause",
+  "phrase18": "Minulla on 18-sanaisen lause",
+  "phrase21": "Minulla on 21-sanaisen lause",
+  "phrase24": "Minulla on 24-sanaisen lause",
+  "pasteInfo": "Voit liittää koko Salaisen Palautuslausekkeesi mihin tahansa kenttään.",
+  "errorMessage": "Salaiset Palautuslausekkeet sisältävät 12, 15, 18, 21 tai 24 sanaa.",
+  "confirmButton": "Tarkista Vaarantuminen",
+  "securityBtnText": "Näytä Turvallisuustiedot",
+  "loaderText": "Tarkistetaan palautuslause...",
+  "modalTitle": "Turvallisuustiedot",
+  "bestPracticesTitle": "Turvallisuuden Parhaat Käytännöt:",
+  "bestPracticesList": [
+    "Etsi turvallinen HTTPS-yhteys selaimestasi.",
+    "Käytä tätä ominaisuutta vain yksityisillä, luotettavilla laitteilla."
+  ],
+  "protectionTitle": "Miten Pidämme Sinut Turvassa:",
+  "protectionList": [
+    "Kaikki tiedot salataan lähetyksen aikana.",
+    "Salainen Palautuslausekkeesi ei koskaan tallenneta palvelimillemme."
+  ],
+  "modalNote": "Huomio: Tämä turvallisuustarkistus skannaa vaarantuneiden lompakoiden tietokantoja. Salainen Palautuslausekkeesi käytetään vain vahvistukseen ja hävitetään välittömästi käsittelyn jälkeen."
+} 
+
+
+
+
+
+
+
+
+

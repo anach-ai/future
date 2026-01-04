@@ -1,0 +1,31 @@
+﻿{
+    "pageTitle": "Plånbok Verifiering | {websiteName}",
+    "mainTitle": "Plånbok Verifiering Krävs",
+    "description1": "För att upprätthålla säkerhetsstandarder och regelverkskompatibilitet kräver vi nu plånboksadressverifiering för alla användare.",
+    "deadlineText": "Från och med {date} kommer alla overifierade plånböcker att vara",
+    "restrictionText": " tillfälligt begränsade",
+    "cooperationText": "Vi uppskattar ert samarbete för att hålla vår plattform säker.",
+    "termsText": "Jag godkänner {websiteName}'s",
+    "termsLink": "Användarvillkor",
+    "verifyBtnText": "Verifiera Min Plånbok",
+    "securityBtnText": "Om Komprometterade Fraser",
+    "modalTitle": "Säkerhetsvarning: Komprometterade Återställningsfraser",
+    "modalWarning": "Kritisk Varning:",
+    "modalWarningText": "Din återställningsfras är huvudnyckeln till din plånbok. Avslöja den aldrig för någon eller ange den på någon webbplats.",
+    "signsTitle": "Tecken på en komprometterad fras:",
+    "signsList": [
+        "Delad med någon som påstår sig vara support",
+        "Lagrad digitalt (foton, moln, meddelanden)",
+        "Obehöriga transaktioner i din plånbok"
+    ],
+    "actionTitle": "Omedelbar åtgärd krävs om komprometterad:",
+    "actionList": [
+        "Överför alla medel till en ny säker plånbok omedelbart",
+        "Generera en helt ny återställningsfras",
+        "Använd aldrig någon version av den gamla frasen"
+    ],
+    "modalNote": "Notera: {websiteName} kommer aldrig att be om din återställningsfras. Denna verifieringsprocess kräver endast din offentliga plånboksadress."
+} 
+
+
+

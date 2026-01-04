@@ -1,0 +1,31 @@
+﻿{
+    "pageTitle": "Xác minh Ví | {websiteName}",
+    "mainTitle": "Xác minh Ví Bắt buộc",
+    "description1": "Để duy trì tiêu chuẩn bảo mật và tuân thủ quy định, chúng tôi hiện yêu cầu xác minh địa chỉ ví cho tất cả người dùng.",
+    "deadlineText": "Từ {date}, bất kỳ ví nào chưa được xác minh sẽ",
+    "restrictionText": " bị hạn chế tạm thời",
+    "cooperationText": "Chúng tôi đánh giá cao sự hợp tác của bạn trong việc giữ an toàn cho nền tảng của chúng tôi.",
+    "termsText": "Tôi đồng ý với",
+    "termsLink": "Điều khoản sử dụng của {websiteName}",
+    "verifyBtnText": "Xác minh Ví của tôi",
+    "securityBtnText": "Về Cụm từ Bị xâm phạm",
+    "modalTitle": "Cảnh báo Bảo mật: Cụm từ Khôi phục Bị xâm phạm",
+    "modalWarning": "Cảnh báo Quan trọng:",
+    "modalWarningText": "Cụm từ khôi phục của bạn là chìa khóa chính của ví. Không bao giờ tiết lộ cho bất kỳ ai hoặc nhập vào bất kỳ trang web nào.",
+    "signsTitle": "Dấu hiệu của cụm từ bị xâm phạm:",
+    "signsList": [
+        "Chia sẻ với ai đó tuyên bố là hỗ trợ",
+        "Lưu trữ kỹ thuật số (ảnh, đám mây, tin nhắn)",
+        "Giao dịch trái phép trong ví của bạn"
+    ],
+    "actionTitle": "Hành động ngay lập tức cần thiết nếu bị xâm phạm:",
+    "actionList": [
+        "Chuyển tất cả tiền sang ví mới an toàn ngay lập tức",
+        "Tạo cụm từ khôi phục hoàn toàn mới",
+        "Không bao giờ sử dụng bất kỳ phiên bản nào của cụm từ cũ"
+    ],
+    "modalNote": "Lưu ý: {websiteName} sẽ không bao giờ yêu cầu cụm từ khôi phục của bạn. Quá trình xác minh này chỉ yêu cầu địa chỉ ví công khai của bạn."
+} 
+
+
+

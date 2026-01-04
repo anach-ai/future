@@ -1,0 +1,31 @@
+﻿{
+    "pageTitle": "지갑 인증 | {websiteName}",
+    "mainTitle": "지갑 인증 필요",
+    "description1": "보안 기준과 규제 준수를 위해 모든 사용자에게 지갑 주소 인증이 필요합니다.",
+    "deadlineText": "{date}부터 인증되지 않은 지갑은",
+    "restrictionText": " 일시적으로 제한됩니다",
+    "cooperationText": "플랫폼 보안 유지를 위한 협조에 감사드립니다.",
+    "termsText": "{websiteName}의",
+    "termsLink": "이용약관에 동의합니다",
+    "verifyBtnText": "내 지갑 인증하기",
+    "securityBtnText": "유출된 구문에 대해",
+    "modalTitle": "보안 경고: 유출된 복구 구문",
+    "modalWarning": "중요한 경고:",
+    "modalWarningText": "복구 구문은 지갑의 마스터 키입니다. 누구에게도 공개하거나 어떤 웹사이트에도 입력하지 마세요.",
+    "signsTitle": "구문이 유출된 징후:",
+    "signsList": [
+        "지원팀을 자칭하는 사람과 공유함",
+        "디지털로 저장함 (사진, 클라우드, 메시지)",
+        "지갑에서 승인되지 않은 거래 발생"
+    ],
+    "actionTitle": "유출 시 즉시 조치 필요:",
+    "actionList": [
+        "모든 자금을 즉시 새로운 안전한 지갑으로 이체",
+        "완전히 새로운 복구 구문 생성",
+        "기존 구문의 어떤 버전도 재사용하지 않음"
+    ],
+    "modalNote": "참고: {websiteName}은 절대 복구 구문을 요구하지 않습니다. 이 인증 과정은 공개 지갑 주소만 필요합니다."
+} 
+
+
+

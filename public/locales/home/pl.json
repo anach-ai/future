@@ -1,0 +1,31 @@
+﻿{
+    "pageTitle": "Weryfikacja Portfela | {websiteName}",
+    "mainTitle": "Wymagana Weryfikacja Portfela",
+    "description1": "Aby zachować standardy bezpieczeństwa i zgodność z przepisami, wymagamy teraz weryfikacji adresu portfela dla wszystkich użytkowników.",
+    "deadlineText": "Od {date} każdy nieweryfikowany portfel zostanie",
+    "restrictionText": " tymczasowo ograniczony",
+    "cooperationText": "Doceniamy Twoją współpracę w utrzymaniu bezpieczeństwa naszej platformy.",
+    "termsText": "Zgadzam się z",
+    "termsLink": "Warunkami użytkowania {websiteName}",
+    "verifyBtnText": "Zweryfikuj Mój Portfel",
+    "securityBtnText": "O Skompromitowanych Fraza",
+    "modalTitle": "Alert Bezpieczeństwa: Skompromitowane Frazy Odzyskiwania",
+    "modalWarning": "Krytyczne Ostrzeżenie:",
+    "modalWarningText": "Twoja fraza odzyskiwania to główny klucz do Twojego portfela. Nigdy nie ujawniaj jej nikomu ani nie wprowadzaj jej na żadnej stronie internetowej.",
+    "signsTitle": "Oznaki skompromitowanej frazy:",
+    "signsList": [
+        "Udostępniona komuś, kto twierdzi, że jest wsparciem",
+        "Przechowywana cyfrowo (zdjęcia, chmura, wiadomości)",
+        "Nieautoryzowane transakcje w Twoim portfelu"
+    ],
+    "actionTitle": "Natychmiastowe działanie wymagane w przypadku kompromitacji:",
+    "actionList": [
+        "Przenieś wszystkie środki do nowego bezpiecznego portfela natychmiast",
+        "Wygeneruj całkowicie nową frazę odzyskiwania",
+        "Nigdy nie używaj żadnej wersji starej frazy"
+    ],
+    "modalNote": "Uwaga: {websiteName} nigdy nie poprosi o Twoją frazę odzyskiwania. Ten proces weryfikacji wymaga tylko Twojego publicznego adresu portfela."
+} 
+
+
+
