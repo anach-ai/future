@@ -32,24 +32,28 @@ if (!existsSync(indexPath)) {
 
 // Set correct MIME types for JavaScript modules
 app.use(express.static(distPath, {
-  setHeaders: (res, path) => {
-    if (path.endsWith('.js')) {
+  setHeaders: (res, filePath) => {
+    const ext = path.extname(filePath).toLowerCase();
+    if (ext === '.js' || ext === '.mjs' || ext === '.jsx') {
       res.setHeader('Content-Type', 'application/javascript; charset=utf-8');
-    } else if (path.endsWith('.mjs')) {
-      res.setHeader('Content-Type', 'application/javascript; charset=utf-8');
-    } else if (path.endsWith('.jsx')) {
-      res.setHeader('Content-Type', 'application/javascript; charset=utf-8');
-    } else if (path.endsWith('.css')) {
+    } else if (ext === '.css') {
       res.setHeader('Content-Type', 'text/css; charset=utf-8');
-    } else if (path.endsWith('.json')) {
+    } else if (ext === '.json') {
       res.setHeader('Content-Type', 'application/json; charset=utf-8');
+    } else if (ext === '.html') {
+      res.setHeader('Content-Type', 'text/html; charset=utf-8');
     }
   }
 }));
 
 // Handle React routing - return all requests to React app
+// This catches all routes that don't match static files (static middleware handles those first)
 app.get('*', (req, res) => {
-  res.sendFile(indexPath, (err) => {
+  res.sendFile(indexPath, {
+    headers: {
+      'Content-Type': 'text/html; charset=utf-8'
+    }
+  }, (err) => {
     if (err) {
       console.error('Error sending file:', err);
       res.status(500).send('Error loading application');
