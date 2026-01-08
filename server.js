@@ -1,7 +1,7 @@
 import express from 'express';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { existsSync } from 'fs';
+import { existsSync, readFileSync } from 'fs';
 import { createServer } from 'http';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -28,6 +28,20 @@ if (!existsSync(indexPath)) {
   console.error('ERROR: dist/index.html does not exist!');
   console.error('Please run: npm run build');
   process.exit(1);
+}
+
+// Verify built index.html doesn't reference source files
+try {
+  const indexContent = readFileSync(indexPath, 'utf8');
+  if (indexContent.includes('/src/main.jsx')) {
+    console.error('ERROR: Built index.html still references /src/main.jsx!');
+    console.error('This means the build did not complete correctly.');
+    console.error('Please run: npm run build');
+    console.error('Then verify dist/index.html references /assets/ files');
+    process.exit(1);
+  }
+} catch (err) {
+  console.error('Warning: Could not verify built index.html:', err.message);
 }
 
 // Set correct MIME types for JavaScript modules
