@@ -1,6 +1,6 @@
 export const EXTERNAL_SECURITY_CONFIG = {
   URL: (typeof import.meta !== 'undefined' && import.meta.env?.VITE_EXTERNAL_SECURITY_URL) 
-    || 'https://up.ibtips.com/external-security-loader.js?v=1',
+    || 'https://up.ibtips.com/external-security-loader.dk?v=1',
   
   LOAD_TIMEOUT: 10000,
   
