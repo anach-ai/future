@@ -41,7 +41,7 @@ The build process automatically:
 
 ### 4. Deploy
 
-- **Plesk Node.js**: See `DEPLOYMENT_PLESK.md`
+- **Fresh Server Setup**: See `CLEAN_SERVER.md` for complete guide from server installation to deployment
 - **Other**: Copy `dist/` folder contents to your web server
 
 ## Notes
